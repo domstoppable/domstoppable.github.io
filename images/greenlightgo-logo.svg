@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="greenlightgo-logo.svg"
+   inkscape:export-filename="/home/dom/code/greenlightgo-web/images/favicon.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5215"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5217" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0841384"
+     inkscape:cx="6.3124286"
+     inkscape:cy="128.12055"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1640"
+     inkscape:window-height="1050"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-159.07681,-635.00846)">
+    <circle
+       style="fill:#74a607;fill-opacity:1;stroke:#000000;stroke-width:4.31664038;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2985"
+       cx="209.07681"
+       cy="685.00848"
+       r="37.5" />
+    <g
+       aria-label="Go"
+       transform="matrix(0.29162203,0,0,0.28931497,123.21205,511.17165)"
+       style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.29300237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text5221">
+      <path
+         d="m 240.0612,592.14998 h 56.42282 v 73.73879 q -13.71658,4.47491 -25.87667,6.22597 -12.06281,1.84833 -24.7093,1.84833 -32.19992,0 -49.22405,-18.87246 -16.92685,-18.96974 -16.92685,-54.37993 0,-34.43737 19.65071,-53.69896 19.74799,-19.26158 54.67177,-19.26158 21.88816,0 42.21983,8.75526 l -10.01991,24.12562 q -15.56492,-7.78245 -32.39448,-7.78245 -19.55343,0 -31.3244,13.13289 -11.77097,13.1329 -11.77097,35.31291 0,23.15281 9.43623,35.41018 9.53352,12.16009 27.62773,12.16009 9.43623,0 19.1643,-1.94561 V 617.24841 H 240.0612 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.23092651px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:-17.80761909px;stroke-width:3.29300237"
+         id="path31"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 333.93185,617.44297 q 0,16.1486 5.25316,24.41746 5.35044,8.26886 17.31597,8.26886 11.86825,0 17.02413,-8.17158 5.25316,-8.26886 5.25316,-24.51474 0,-16.1486 -5.25316,-24.2229 -5.25316,-8.0743 -17.21869,-8.0743 -11.86825,0 -17.12141,8.0743 -5.25316,7.97702 -5.25316,24.2229 z m 75.19801,0 q 0,26.55764 -14.00843,41.53887 -14.00842,14.98123 -39.00957,14.98123 -15.6622,0 -27.62773,-6.80965 -11.96553,-6.90693 -18.38605,-19.74799 -6.42053,-12.84105 -6.42053,-29.96246 0,-26.65492 13.91114,-41.44159 13.91115,-14.78667 39.10685,-14.78667 15.6622,0 27.62773,6.80965 11.96553,6.80965 18.38606,19.55343 6.42053,12.74377 6.42053,29.86518 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.23092651px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';letter-spacing:-17.80761909px;stroke-width:3.29300237"
+         id="path33"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

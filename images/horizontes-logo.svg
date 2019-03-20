@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 93.750004 93.750002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="horizontes-logo.svg"
+   inkscape:export-filename="c:\tmp\BWW_Logo_Final_2015-fixed.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="73.593229"
+     inkscape:cy="79.287362"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1640"
+     inkscape:window-height="1050"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-others="true"
+     units="px" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1371.25)" />
+  <metadata
+     id="metadata4195">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path1903"
+     style="fill:#000000;stroke-width:0.12433688"
+     d="m 44.879206,32.728738 c -0.03342,-0.0871 -0.04565,-1.387969 -0.02719,-2.890834 l 0.03359,-2.732464 1.83397,-0.03441 1.833969,-0.03441 v 2.925242 2.925235 H 46.74676 c -1.348629,0 -1.822198,-0.04013 -1.867559,-0.158362 z m 12.004467,4.074532 -1.302387,-1.306842 2.019,-2.018996 2.018999,-2.019003 1.306006,1.306009 1.306005,1.306 -2.022616,2.019829 -2.022618,2.019837 z m -23.966979,-0.715945 -2.01983,-2.022617 1.306834,-1.302388 1.306836,-1.302387 2.019001,2.018994 2.019,2.019004 -1.306004,1.306009 -1.306005,1.306 z m -1.397296,10.601167 v -1.989384 h 1.731167 1.731169 l 0.558863,-0.839277 c 1.960739,-2.944539 5.472553,-5.174547 9.059457,-5.75276 1.380877,-0.222601 4.113842,-0.104329 5.405413,0.233922 1.345825,0.352472 2.824115,0.985509 3.971796,1.700826 1.189876,0.741617 2.909405,2.375521 3.777606,3.589501 l 0.674729,0.943451 h 1.776167 1.776167 v 2.051556 2.051557 H 58.88867 55.795408 l -0.273006,-0.730011 c -0.741,-1.981415 -2.656756,-4.02931 -4.666667,-4.988552 -2.505092,-1.195574 -5.492738,-1.24082 -7.98282,-0.120913 -2.111195,0.949508 -3.803858,2.66936 -4.845046,4.922882 l -0.423494,0.916594 h -3.042489 -3.042488 z m 28.473144,28.783991 v -2.051556 h 2.859748 2.859748 V 46.875001 20.329076 H 62.85229 59.992542 v -2.051557 -2.051556 h 5.159979 5.159981 V 46.875001 77.52404 H 65.152521 59.992542 Z M 23.437501,46.937166 V 16.3503 h 5.346487 5.346485 v 2.051556 2.051557 h -3.108422 -3.108422 v 26.483753 26.483761 h 3.108422 3.108422 v 2.051556 2.051557 h -5.346485 -5.346487 z"
+     inkscape:connector-curvature="0" />
+</svg>
