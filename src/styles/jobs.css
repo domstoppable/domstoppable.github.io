@@ -1,0 +1,67 @@
+.info-card img {
+	float: right;
+}
+
+.skills {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin-bottom: 1em;
+}
+
+.skill {
+	margin: 0.125em;
+}
+
+.skill .flip-card-inner {
+	border-radius: .5em;
+	width: 6em;
+	height: 5.5em;
+
+	text-align: center;
+	font-size: 12pt;
+
+	box-shadow: .125em .125em .125em #222;
+}
+
+.skill:hover .flip-card-inner {
+	box-shadow: -.125em .125em .125em #222;
+}
+
+.skill>*>* {
+	height: 100%;
+	border-radius: .5em;
+
+	background: var(--theme-7);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+.skill .flip-card-inner>*>* {
+	padding: 0.25em;
+}
+
+.skill img {
+	margin: 0 .75em;
+	font-size: 9pt;
+}
+
+.progressBar {
+	width: 70px;
+	height: 14px;
+	position: relative;
+	margin: 0.25em auto;
+	background-color: #d7d7d7;
+	mask: url(../images/progress-mask.svg);
+}
+
+.progressBar .fill {
+	background-color: var(--theme-5);
+	width: 100%;
+	height: 100%;
+}
+
+.job .description {
+	margin: 0.5em 0;
+}

@@ -1,0 +1,70 @@
+.degree-blocks {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.degree-block {
+	margin-bottom: 1em;
+}
+
+.degree-block .flip-card-inner {
+	width: 8em;
+	height: 8em;
+	
+	text-align: center;
+	color: var(--theme-7);
+	font-size: 14pt;
+
+	box-shadow: .25em .25em .25em #444;
+}
+
+.degree-block:hover .flip-card-inner {
+	box-shadow: -0.25em 0.25em .25em #444;
+}
+
+
+
+.degree-block>*>* {
+	background: var(--theme-5);
+	display: flex;
+	flex-direction: column;
+}
+
+
+.degree-block.pending>*>* {
+	background-color: var(--theme-4);
+}
+
+
+.degree-block.pending .year::after {
+	content: '*';
+}
+
+
+.degree-block>*>*>*{
+	flex-basis: 100%;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+	padding-bottom: .25em;
+}
+
+.degree-block .type {
+	font-weight: bold;
+	font-size: 52pt;
+}
+
+.degree-block .field,
+.degree-block .year {
+	font-size: 16pt
+}
+
+.degree-block .institution {
+	font-weight: bold;
+	font-size: 22pt;
+}
+

@@ -1,0 +1,105 @@
+[
+	{
+		"name": "Python",
+		"level": 100
+	},{
+		"name": "Google Apps Script",
+		"level": 90
+	},{
+		"name": "Android",
+		"level": 80
+	},{
+		"name": "Debian Linux",
+		"level": 95
+	},{
+		"name": "BASH",
+		"level": 95
+	},{
+		"name": "Qt",
+		"level": 75
+	},{
+		"name": "Apache httpd",
+		"level": 80
+	},{
+		"name": "HTML5",
+		"level": 100
+	},{
+		"name": "CSS",
+		"level": 100
+	},{
+		"name": "JavaScript",
+		"level": 100
+	},{
+		"name": "React",
+		"level": 90
+	},{
+		"name": "React Native",
+		"level": 80
+	},{
+		"name": "PHP",
+		"level": 80
+	},{
+		"name": "PostgreSQL",
+		"level": 85
+	},{
+		"name": "NodeJS",
+		"level": 85
+	},{
+		"name": "Java",
+		"level": 85
+	},{
+		"name": "C++",
+		"level": 68
+	},{
+		"name": "Raspberry Pi",
+		"level": 80
+	},{
+		"name": "Arduino",
+		"level": 95
+	},{
+		"name": "Scratch",
+		"level": 85
+	},{
+		"name": "Unreal Engine",
+		"level": 80
+	},{
+		"name": "Inkscape",
+		"level": 100
+	},{
+		"name": "Sikuli",
+		"level": 95
+	},{
+		"name": "GIMP",
+		"level": 95
+	},{
+		"name": "Audacity",
+		"level": 90
+	},{
+		"name": "Blender",
+		"level": 76
+	},{
+		"name": "ESP32",
+		"level": 45
+	},{
+		"name": "PCB design",
+		"level": 30
+	},{
+		"name": "OpenGL",
+		"level": 40
+	},{
+		"name": "Karaoke",
+		"level": 8
+	},{
+		"name": "Firebase",
+		"level": 70
+	},{
+		"name": "3D Printing",
+		"level": 83
+	},{
+		"name": "Laser cutting",
+		"level": 83
+	},{
+		"name": "Matlab",
+		"level": 15
+	}
+]

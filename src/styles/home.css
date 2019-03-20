@@ -1,0 +1,40 @@
+.contact-blocks {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.contact-block {
+	margin: 0.25em;
+	margin-bottom: 1em;
+
+	text-align: center;
+	background: var(--theme-7);
+	border-radius: 0.25em;
+	font-size: 12pt;
+
+	padding: 0.25em 0.75em;
+	box-shadow: .125em .125em .125em #222;
+}
+
+.contact-block:first-child,
+.contact-block:nth-child(2) {
+	width: 200px;
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+}
+
+.contact-block:nth-child(2) {
+	break-after: always;
+}
+
+.contact-block,
+.contact-block a {
+	color: var(--theme-1);
+}
+
+.contact-block img {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}

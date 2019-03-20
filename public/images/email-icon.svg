@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Logo_FIXED"
+   data-name="Logo — FIXED"
+   viewBox="0 0 100 100"
+   version="1.1"
+   sodipodi:docname="email-icon.svg"
+   width="100"
+   height="100"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Twitter_Logo_Blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1271"
+     inkscape:window-height="858"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="4.72"
+     inkscape:cx="34.520245"
+     inkscape:cy="40.036678"
+     inkscape:window-x="365"
+     inkscape:window-y="156"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Logo_FIXED"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="5,100.21186"
+       orientation="1,0"
+       id="guide911"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="95,100"
+       orientation="1,0"
+       id="guide913"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="50,100.63559"
+       orientation="1,0"
+       id="guide915"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{fill:#1da1f2;}</style>
+  </defs>
+  <title
+     id="title6">Twitter_Logo_Blue</title>
+  <rect
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#4a4a4a;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9;stroke-opacity:1;paint-order:normal"
+     id="rect871"
+     width="74.053787"
+     height="45.767437"
+     x="13.262712"
+     y="28.056913" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#4a4a4a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 13.262712,73.824353 37.026893,-22.88372 37.026893,22.88372"
+     id="path877"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path879"
+     d="m 13.262712,33.406793 37.026893,22.883718 37.026893,-22.883718 5e-6,-5.349879 H 13.262712 Z"
+     style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#4a4a4a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.15083694;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path917"
+     cx="74.214615"
+     cy="69.599892"
+     r="17.050997" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:30.35367775px;line-height:18.97104836px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ec0000;fill-opacity:1;stroke:none;stroke-width:3.79408169;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     x="59.111889"
+     y="77.632942"
+     id="text883"><tspan
+       sodipodi:role="line"
+       id="tspan881"
+       x="59.111889"
+       y="77.632942"
+       style="font-weight:bold;fill:#ec0000;fill-opacity:1;stroke:none;stroke-width:3.79408169;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill">@</tspan></text>
+</svg>
