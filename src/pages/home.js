@@ -9,7 +9,7 @@ export default class Page extends Component {
 		let contactMethods = [
 			{
 				name: 'email',
-				uri: 'mailto:dom@greenlightgo.org',
+				uri: 'mailto:dom@dominiccanare.com',
 				text: 'dom@dominiccanare.com',
 				icon: 'email-icon.svg'
 			},{
