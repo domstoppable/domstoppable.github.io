@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react';
 import {
-	BrowserRouter,
+	HashRouter,
 	Route,
 	Switch
 } from 'react-router-dom';
@@ -44,7 +44,7 @@ class App extends Component {
 
 		this.state = { page: undefined };
 		for(let page of this.pages){
-			if(page.url === window.location.pathname){
+			if(page.url === window.location.hash.substring(1)){
 				this.state.page = page;
 				break;
 			}
@@ -55,7 +55,7 @@ class App extends Component {
 
 	render() {
 		return (
-			<BrowserRouter ref={this.router}>
+			<HashRouter ref={this.router}>
 				<div className="App">
 					<div className="sidebar" id="Nav">
 						<div className="sidebarMain">
@@ -95,7 +95,7 @@ class App extends Component {
 					</div>
 					<div id="MenuButton" className="mobile-menu-button banner" onClick={()=>this.showNav()}>☰ Menu</div>
 				</div>
-			</BrowserRouter>
+			</HashRouter>
 		);
 	}
 
