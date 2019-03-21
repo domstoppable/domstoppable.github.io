@@ -5,6 +5,7 @@ import {
 	Route,
 	Switch
 } from 'react-router-dom';
+import createBrowserHistory from "history/createBrowserHistory";
 
 import './styles/App.css';
 import headshot from './images/dominic-canare.png';
@@ -16,8 +17,8 @@ import CommunityInvolvementPage from './pages/community-involvement.js';
 import PublicationsPage from './pages/publications.js';
 
 class App extends Component {
-	constructor(){
-		super();
+	constructor(props){
+		super(props);
 		this.pages = [
 			{
 				url: '/',
@@ -42,20 +43,38 @@ class App extends Component {
 			},
 		];
 
-		this.state = { page: undefined };
+		this.state = { page: this.getCurrentPage() };
+
+		this.history = createBrowserHistory();
+		this.history.listen((location, action) => {
+			this.setState({page: this.getCurrentPage()});
+
+			document.getElementById('Nav').classList.remove('mobile-nav-show');
+			document.getElementById('MenuButton').classList.remove('hide');
+			document.getElementById('PageContainer').classList.remove('hide');
+			window.scrollTo(0, 0);
+		});
+	}
+
+	showNav(){
+		document.getElementById('Nav').classList.add('mobile-nav-show');
+		document.getElementById('MenuButton').classList.add('hide');
+		document.getElementById('PageContainer').classList.add('hide');
+		window.scrollTo(0, 0);
+	}
+
+	getCurrentPage(){
 		for(let page of this.pages){
 			if(page.url === window.location.hash.substring(1)){
-				this.state.page = page;
-				break;
+				return page;
 			}
 		}
-
-		this.router = React.createRef();
+		return this.pages[0];
 	}
 
 	render() {
 		return (
-			<HashRouter ref={this.router}>
+			<HashRouter>
 				<div className="App">
 					<div className="sidebar" id="Nav">
 						<div className="sidebarMain">
@@ -66,9 +85,7 @@ class App extends Component {
 									this.pages.map(page => {
 										return (
 											<div key={page.label} className={page===this.state.page ? 'selected':''}>
-												<div onClick={()=>this.goto(page)}>
-													{page.label}
-												</div>
+												<a href={'/#' + page.url}>{page.label}</a>
 											</div>
 										);
 									})
@@ -97,23 +114,6 @@ class App extends Component {
 				</div>
 			</HashRouter>
 		);
-	}
-
-	goto(page){
-		this.router.current.history.push(page.url);
-		this.setState({page:page});
-
-		document.getElementById('Nav').classList.remove('mobile-nav-show');
-		document.getElementById('MenuButton').classList.remove('hide');
-		document.getElementById('PageContainer').classList.remove('hide');
-		window.scrollTo(0, 0);
-	}
-
-	showNav(){
-		document.getElementById('Nav').classList.add('mobile-nav-show');
-		document.getElementById('MenuButton').classList.add('hide');
-		document.getElementById('PageContainer').classList.add('hide');
-		window.scrollTo(0, 0);
 	}
 }
 

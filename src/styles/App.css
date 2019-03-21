@@ -108,22 +108,23 @@ html, body, #root {
 	padding-top: 1.5em;
 }
 
-nav>div>div {
+nav>div>a {
 	display: block;
 	color: inherit;
 	font-size: 125%;
 	line-height: 2em;
 	cursor: pointer;
+	text-decoration: none;
 }
 
-nav div:hover {
+nav a:hover {
 	text-decoration: none;
 	font-weight: bold;
 	color: var(--theme-7);
 }
 
-nav>div.selected::before,
-nav>div.selected::after {
+nav>.selected::before,
+nav>.selected::after {
 	width: 1em;
 	content: '.';
 	position: absolute;
@@ -136,18 +137,18 @@ nav>div.selected::after {
 	z-index: 0;
 }
 
-nav>div.selected::after {
+nav>.selected::after {
 	right: 0;
 	transform: skew(0deg, 37.5deg);
 }
 
-nav>div.selected{
+nav>.selected{
 	position: relative;
 	width: 119%;
 	margin-left: -9.44%;
 }
 
-nav>div.selected div{
+nav>.selected a{
 	position: relative;
 
 	font-weight: bold;
