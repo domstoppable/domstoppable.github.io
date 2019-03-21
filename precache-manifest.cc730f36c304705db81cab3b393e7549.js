@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/static/media/academics-icon.83e5fcc3.svg"
   },
   {
-    "revision": "93a9a2c316b74f307afb",
-    "url": "/static/css/main.6b454e00.chunk.css"
+    "revision": "d1fc6a3971818cfbcfd2",
+    "url": "/static/css/main.0d0594f3.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "ad4a4377d669c85d5d0d",
-    "url": "/static/js/2.681c6b70.chunk.js"
+    "revision": "e21e9dea58425ca6a387",
+    "url": "/static/js/2.764d5d9c.chunk.js"
   },
   {
     "revision": "b22a4a0cafefb38158a501120b61590b",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/wave-icon.7c215e82.svg"
   },
   {
-    "revision": "93a9a2c316b74f307afb",
-    "url": "/static/js/main.b1246b83.chunk.js"
+    "revision": "d1fc6a3971818cfbcfd2",
+    "url": "/static/js/main.c8de3bf9.chunk.js"
   },
   {
     "revision": "103f6f3f6d5a7cdad7ba921be46b4b34",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/progress-mask.a315b824.svg"
   },
   {
-    "revision": "31313cb67fa237ca07e5b5c06750baf1",
+    "revision": "bfedd12399b8131abeef8b7f44d745f5",
     "url": "/index.html"
   }
 ];
