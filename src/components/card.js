@@ -2,12 +2,34 @@ import React, { Component } from 'react';
 
 export default class Card extends Component {
 	render(){
-		return <div {...this.props} className={'info-card' + (this.props.className ? (' '+this.props.className) : '')} >
+		return <div className={'info-card' + (this.props.className ? (' '+this.props.className) : '')} >
 			<div className="title">{this.props.heading}</div>
 			<div className="contents">
 				{this.props.children}
 			</div>
 		</div>
+	}
+}
+
+export class InfoCard extends Component {
+	render(){
+		let iconContent = null;
+
+		if(this.props.iconNode){
+			iconContent = this.props.iconNode;
+		}else if(this.props.iconImageURL){
+			iconContent = <img src={'../images/' + this.props.iconImageURL} alt='Link icon' width="96" height="96"/>
+		}
+
+		let icon = <a className="icon" href={this.props.iconURL} target={this.props.urlDirectDownload ? '' : '_blank'} rel="noopener noreferrer" alt={this.props.iconAlt ? this.props.iconAlt : 'icon'}>
+			{iconContent}
+		</a>;
+
+		return <Card {...this.props}>
+			{icon}
+			<div className="subheading">{this.props.subheading}</div>
+			<div className="details">{this.props.children}</div>
+		</Card>;
 	}
 }
 

@@ -186,5 +186,21 @@
 		"description": "In 2015, the Sedgwick County commissioners proposed a new budget which cut a significant amount of funding to a number of public interests, including public health, economic development, <a href=\"http://exploration.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Exploration Place</a>, and the zoo. I spoke out publicly against the cuts when the commission's was open to public comment and at a staged rally in downtown Wichita. After considerable public demand, the finalized budget restored some of the funding which was cut.",
 		"location": "Wichita, KS",
 		"url": "http://sedgwick.granicus.com/player/clip/3063?view_id=24&entrytime=2904&stoptime=5570&autostart=0&embed=1"
+	},{
+		"title": "A comparison of gaze-based and gesture-based input for a point-and-click task",
+		"date": "2015-04-24",
+		"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
+		"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
+		"description": "Alternative input devices to the computer mouse are becoming more affordable and accessible. With greater availability, they have the potential to provide greater access to information for more users in more environments. However, most user interfaces are built to be mouse-driven, and the adoption of these new technologies may depend on their ability to work with these existing interfaces. This study examined performance with gesture-control and gaze-tracking devices and compared them to a traditional mouse for a standard Fitts' Law point-and-click task. Participants were capable of using both gesture-controlled and gaze-tracking devices to control an on-screen keyboard quickly and accurately enough to complete the majority of trials. However, both devices were significantly slower than the mouse, and were more prone to miss-clicks and failures. Our subjective measures indicate that participants found these alternative input devices to be more taxing than the familiar mouse. In order to make effective use of these devices, researchers, designers, and developers must find control schemes which take advantage of the alternative devices' benefits while curtailing the drawbacks. While this study does show that these alternative input devices can be used to control a computer's cursor in a point-and-click environment, it is inefficient, error-prone, and difficult for the user.",
+		"location": "Wichita, KS",
+		"url": "https://soar.wichita.edu/handle/10057/11405"
+	},{
+		"title": "New input schemes for new devices",
+		"date": "2017-04-28",
+		"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
+		"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
+		"description": "Novel input devices can potentially increase the bandwidth between users and their devices. Traditional desktop computing uses windows, icons, menus, and pointers-an interface schemebuilt for the computer mouse and very effective for pointing-and-clicking. Alternative devices provide a variety of interactions including touch-free, gesture-based input and gaze-tracking to sense the location of the user's on-screen gaze location. A previous study demonstrates that such input channels are not well-suited to a point-and-click interface alone. This study evaluates new schemes designed for these devices, including multi-modal input schemes. These experimental schemes perform worse than mouse-based input for a picture sorting task, and motion-based gesture control creates more errors. Only gaze-based input without gestures did not create more workload across all workload factors when compared to traditional mouse-based input.",
+		"location": "Wichita, KS",
+		"url": "https://soar.wichita.edu/handle/10057/13270"
 	}
 ]

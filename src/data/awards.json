@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Newsmaker of the Year",
+		"date": "2015-02-03",
+		"org": "Wichita Business Journal",
+		"type": "community",
+		"details": "<a href=\"https://www.bizjournals.com/wichita/\" target=\"_blank\" rel=\"noopener noreferrer\">The Wichita Business Journal</a> recognizes Wichita-area business leaders who have made newsworthy differences in the community. I was recognized by the WBJ primarily for work I did with <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. Other <a href=\"https://www.bizjournals.com/wichita/special/2014/newsmakers\" target=\"_blank\" rel=\"noopener noreferrer\">NewsMakers</a> that year included the mayor of Wichita, the president of Wichita State University, and others.",
+		"url": "https://www.bizjournals.com/wichita/special/2014/newsmakers",
+		"logo": "wbj-logo.svg"
+	},{
+		"name": "Randall Chambers Award Winner",
+		"org": "Wichita State University Dept. of Psychology",
+		"date": "2017-12-01",
+		"type": "academic",
+		"details": "Dr. Randall Chambers was a distinguished professor at WSU and Chief Life Scientist for NASA. He made a number of significant contributions to the field, and this award was created in his honor. Finalists present data and findings from recently completed research to an audience and a panel of judges who select one winner. My presentation featured work from my masters thesis in Human Factors and was the winning presentation in 2017.",
+		"url": "https://www.wichita.edu/academics/fairmount_college_of_liberal_arts_and_sciences/psychology/",
+		"logo": "wsu-logo.svg"
+	},{
+		"name": "GRASP Honorable Mention",
+		"org": "Wichita State University Graduate School",
+		"date": "2017-04-28",
+		"details": "The Graduate Research and Scholarly Projects (GRASP) Symposium is an annual event where graduate students can share their work with the rest of the university and the wider local community. Judges score presentations on the strength and content of research, visual design and organization, and presentation communication and effectiveness. My presentation on <a href=\"https://soar.wichita.edu/handle/10057/13270\" target=\"_blank\" rel=\"noopener noreferrer\">New Input Schemes for New Devices</a> received an Honorable Mention and a cash prize.",
+		"type": "academic",
+		"url": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
+		"logo": "wsu-grasp-logo.svg"
+	},{
+		"name": "Bright Future Award",
+		"org": "WSU Ventures",
+		"date": "2015-11-16",
+		"details": "<a href=\"http://wsuventures.org/\" target=\"_blank\" rel=\"noopener noreferrer\">WSU Ventures</a> holds an annual awards event to recognize innovative faculty, staff, students, and industry partners with ties to Wichita State. I was selected as one of eight students to receive the Bright Future Award in its inaugural year.",
+		"type": "academic",
+		"url": "http://www.wsuventures.org/about-us/in-the-news/bright-future-award-winner-dominic-canare-shares-his-story",
+		"logo": "wsu-logo.svg"
+	},{
+		"name": "Outstanding Senior of the Year",
+		"org": "Pittsburg State University Dept. of Computer Science",
+		"date": "2006-05-01",
+		"details": "One student is selected each year for recognition of outstanding academic achievement.",
+		"type": "academic",
+		"logo": "psu-logo.svg"
+	},{
+		"name": "Infrastructure and Sustainability Grant ($17,220)",
+		"org": "Wichita Community Foundation",
+		"date": "2014-06-17",
+		"details": "With funding provided by the Knight Foundation Fund, the Wichita Community foundation awarded $17,220 to our non-profit, <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. The funding was used to cover a number of short-term operational expenses while leadership explored growth opportunities and developed a sustainability plan.",
+		"type": "community",
+		"url": "https://wichitacf.org/nonprofits/grants/available-funding/knight-foundation-fund",
+		"logo": "wcf-logo.svg"
+	},{
+		"name": "Knight Foundation Fund Grant ($100,000)",
+		"org": "Wichita Community Foundation",
+		"date": "2014-11-24",
+		"details": "<p>Following their initial grant, the Wichita Community Foundation later awarded $100,000 <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. The funds were used to seed an 8,700 sq foot community makerspace. Capital purchases included equipment for a woodshop, metalshop, ceramics studio, electronics, lab, screen printing studio, textiles studio, \"fab lab\" (laser cutter, 3d printers, etc.), and more. The funding also covered some initial operating expenses (rent, utilities, insurance, etc).</p><p>The MakeICT makerspace is now fully self-sufficient through membership dues and donations. Additionally, it has served as a fiscal sponsor and incubator for spin-off nonprofits with similar missions.</p>",
+		"type": "community",
+		"url": "https://wichitacf.org/nonprofits/grants/available-funding/knight-foundation-fund",
+		"logo": "wcf-logo.svg"
+	}
+]

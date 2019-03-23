@@ -224,7 +224,7 @@ nav>.selected a{
 }
 
 .info-card>.title{
-	font-size: 14pt;
+	font-size: 110%;
 	font-weight: bold;
 	color: var(--theme-7);
 	background-color: var(--theme-5);
@@ -236,8 +236,12 @@ nav>.selected a{
 	padding: 0.5em;
 }
 
-.info-card iframe {
-	max-width: 100%;
+.info-card .details {
+	margin: 0.5em 0;
+}
+
+.info-card .subheading {
+	font-weight: bold;
 }
 
 ul {

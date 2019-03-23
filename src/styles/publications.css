@@ -1,9 +1,6 @@
-.talk-content {
+.info-card .icon {
 	text-align: center;
 	float: right;
-	position: relative;
-	top: -.5em;
-	right: -.25em;
 	font-size: 11pt;
 	line-height: 0.5em;
 	text-decoration: none;

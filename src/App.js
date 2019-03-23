@@ -11,6 +11,7 @@ import './styles/App.css';
 import headshot from './images/dominic-canare.png';
 
 import HomePage from './pages/home.js';
+import AwardsPage from './pages/awards.js';
 import AcademicsPage from './pages/academics.js';
 import ProfessionalExperiencePage from './pages/professional-experience.js';
 import CommunityInvolvementPage from './pages/community-involvement.js';
@@ -40,6 +41,10 @@ class App extends Component {
 				url: '/publications',
 				label:'Publications & talks',
 				element: (props) => <PublicationsPage {...props} />,
+			},{
+				url: '/awards',
+				label:'Awards',
+				element: (props) => <AwardsPage {...props} />,
 			},
 		];
 

@@ -1,13 +1,16 @@
 
 import React, { Component } from 'react';
 
-import Card from '../components/card.js';
+import { InfoCard } from '../components/card.js';
 import icon from '../images/publications-icon.svg';
 
 import '../styles/publications.css';
 
 import publications from '../data/publications.json';
 import talks from '../data/talks.json';
+
+import { parseDate } from '../utils.js';
+
 
 export default class Page extends Component {
 	constructor(){
@@ -74,7 +77,7 @@ class PublicationBlock extends Component {
 
 class TalkBlock extends Component {
 	render() {
-		let content = null;
+		let iconNode = null;
 		if(this.props.url){
 			let icon = 'link-icon.svg';
 			if(this.props.icon){
@@ -86,10 +89,10 @@ class TalkBlock extends Component {
 			}else if(this.props.url.match(/https?:\/\/.*\.?greenlightgo\.org/)){
 				icon = 'greenlightgo-logo.svg';
 			}
-			content = <a className="talk-content" href={this.props.url} target={this.props.urlDirectDownload ? '' : '_blank'} rel="noopener noreferrer">
+			iconNode = <div>
 				<img src={'../images/' + icon} alt='Link icon' width="48" height="48"/>
 				<div>View</div>
-			</a>;
+			</div>;
 		}
 
 		let audience = this.props.audience;
@@ -98,22 +101,19 @@ class TalkBlock extends Component {
 		}
 
 		let date = parseDate(this.props.date);
-		return <Card heading={this.props.title}>
-			{content ? content : null}
-			<p>{audience} - {date.toLocaleString('en-us', {year: 'numeric', month: 'long', day: '2-digit'})}</p>
-			{this.props.description ? <p dangerouslySetInnerHTML={{__html:this.props.description}} /> : null}
-		</Card>;
-	}
-}
-
-function parseDate(dateString) {
-	let date = new Date(dateString);
-	if(date instanceof Date && !isNaN(date)){
-		return date;
-	}else if(dateString.indexOf('-') > 0){
-		let parts = dateString.split('-');
-		return parts[1] + ', ' + parts[0];
-	}else{
-		return dateString;
+		return <InfoCard
+				heading={this.props.title}
+				subheading={
+					<div>
+						{audience}<br/>
+						{date.toLocaleString('en-us', {year: 'numeric', month: 'long', day: 'numeric'})}
+					</div>
+				}
+				iconNode={iconNode}
+				iconURL={this.props.url}
+				urlDirectDownload={this.props.urlDirectDownload}
+			>
+				{this.props.description ? <div dangerouslySetInnerHTML={{__html:this.props.description}} /> : null}
+			</InfoCard>;
 	}
 }

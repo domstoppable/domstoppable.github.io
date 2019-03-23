@@ -1,30 +1,18 @@
 
 import React, { Component } from 'react';
 
-import Card from '../components/card.js';
+import { InfoCard } from '../components/card.js';
 
 import icon from '../images/community-icon.svg';
 import volunteering from '../data/volunteering.json';
+
+import { sortByFields } from '../utils.js';
 
 export default class Page extends Component {
 	constructor(){
 		super();
 
-		this.orgs = volunteering.sort((a,b) => {
-			if(a.end && b.end){
-				if(a.end === b.end){
-					return a.start < b.start;
-				}else{
-					return a.end < b.end
-				}
-			}else if(a.end){
-				return true;
-			}else if(b.end){
-				return false;
-			}else{
-				return a.start < b.start;
-			}
-		});
+		this.orgs = volunteering.sort(sortByFields(['end', 'start']));
 	}
 
 	render() {
@@ -46,24 +34,24 @@ export default class Page extends Component {
 
 class CommunityBlock extends Component {
 	render() {
-		return <Card heading={this.props.orgName + ' - ' + this.props.title}>
-			{ 
-				this.props.logo ? (
-					<a href={this.props.url} target="_blank" rel="noopener noreferrer">
-						<img src={'../images/' + this.props.logo} width="96" height="96" alt={this.props.orgName + ' logo'}/>
-					</a>
-				) : null
-			}
-			<div>{this.props.start} - {this.props.end ? this.props.end : 'current'}</div>
-			<div dangerouslySetInnerHTML={{__html:this.props.details}}></div>
-			<ul className="split">
-				{
+		let org = this.props.orgName;
+		if(this.props.url){
+			org = <a href={this.props.url} target="_blank" rel="noopener noreferrer">{org}</a>;
+		}
+		return <InfoCard
+				heading={this.props.title}
+				subheading={<div>{org}<br/>{this.props.start + ' - ' + (this.props.end ? this.props.end : 'current')}</div>}
+				iconImageURL={this.props.logo}
+				iconURL={this.props.url}
+				iconAlt={this.props.orgName + ' logo'}
+			>
+				<div dangerouslySetInnerHTML={{__html:this.props.details}} />
+				<ul className="split">{
 					this.props.duties.map((duty, index) => {
 						return <li key={index}>{duty}</li>;
 					})
-				}
-			</ul>
-		</Card>
+				}</ul>
+			</InfoCard>
 	}
 }
 
