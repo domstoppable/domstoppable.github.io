@@ -44,8 +44,10 @@ class App extends Component {
 		];
 
 		this.state = { page: this.getCurrentPage() };
-
 		this.history = createBrowserHistory();
+	}
+
+	componentDidMount(){
 		this.history.listen((location, action) => {
 			this.setState({page: this.getCurrentPage()});
 
