@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "83e5fcc3f7879a34e77a5e27cae690ed",
-    "url": "/static/media/academics-icon.83e5fcc3.svg"
+    "revision": "6a24b81658e08bbd9326f936b867b35c",
+    "url": "/static/media/awards-icon.6a24b816.svg"
   },
   {
-    "revision": "2938fef198599a57da9d",
-    "url": "/static/css/main.c77740a2.chunk.css"
+    "revision": "30147c5baff3e0f3282b",
+    "url": "/static/css/main.cf5ee68a.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "951f85bb55a5efd63c39",
-    "url": "/static/js/2.790b5196.chunk.js"
+    "revision": "ed2c6b756e401e18bff0",
+    "url": "/static/js/2.0060832b.chunk.js"
   },
   {
     "revision": "b22a4a0cafefb38158a501120b61590b",
@@ -24,8 +24,12 @@ self.__precacheManifest = [
     "url": "/static/media/wave-icon.7c215e82.svg"
   },
   {
-    "revision": "2938fef198599a57da9d",
-    "url": "/static/js/main.7f725a99.chunk.js"
+    "revision": "30147c5baff3e0f3282b",
+    "url": "/static/js/main.6c374bc5.chunk.js"
+  },
+  {
+    "revision": "83e5fcc3f7879a34e77a5e27cae690ed",
+    "url": "/static/media/academics-icon.83e5fcc3.svg"
   },
   {
     "revision": "103f6f3f6d5a7cdad7ba921be46b4b34",
@@ -44,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/progress-mask.a315b824.svg"
   },
   {
-    "revision": "7731392d3109e4e3ed606eb5bd5fcb22",
+    "revision": "fee9a6fa4cfd53e75b9bf741a58d3613",
     "url": "/index.html"
   }
 ];
