@@ -1,206 +1,242 @@
-[
-	{
-		"title": "Intelligent GUI Automation with Sikuli",
-		"description": "By combining computer vision (OpenCV) and coding (Python+Java), Sikuli can be used to automate any graphical user interface with programmable intelligence. The vision module allows users programmatically identify visual elements, query the screen, and perform logical operations based on the results. This can be a powerful tool for GUI testing or automating UIs when an API is not available.",
-		"date": "2015-01-29",
-		"audience": "devICT",
-		"audienceURL": "https://devict.org/",
-		"location": "Wichita, KS",
-		"embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WGEX0dz_f_w\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-		"url": "https://www.youtube.com/watch?v=WGEX0dz_f_w"
-	},{
-		"title": "Python Bootcamp",
-		"audience": "Wichita State",
-		"description": "In this recorded, live 3-day workshop, we install tools for Python development, learn fundamental programming constructs, and use Qt via PySide to create interactive GUI applications.",
-		"date": "2018-08-08",
-		"location": "Wichita, KS",
-		"embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uNIc1FWcZUs?list=PLf5AqIYjC0JmZZ7CuLH5k0bEZj6V_90aW\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-		"url": "https://www.youtube.com/playlist?list=PLf5AqIYjC0JmZZ7CuLH5k0bEZj6V_90aW"
-	},{
-		"title": "A Comparison of Gaze-Based and Gesture-Based Input for a Point-and-Click Task",
-		"date": "2015-08-06",
-		"description": "Alternative input devices based on gaze and gesture are being developed as an assistive technology or supplementary methods when traditional mouse and keyboard interaction is not convenient. Low-price peripheral devices, as such as eye-trackers and Leap Motion, have increased dramatically recently, which makes alternative input devices more affordable and feasible. This study compared gesture-based input and eye-gaze input to the traditional mouse using a Fitts's Law paradigm to assess performance for each input method.",
-		"audience": "Human Computer Interaction International Conference",
-		"audienceURL": "http://hci.international/",
-		"location": "Los Angeles, CA",
-		"url": "https://drive.google.com/open?id=0B8gkx_wL0WtndlFCVW1RRTI3b28"
-	},{
-		"title": "Computing for Humans",
-		"date": "2014-04-19",
-		"audience": "MakeICT",
-		"description": "This mixed-age, public workshop was designed to teach the fundamentals of computer programming to anybody and everybody, regardless of their experience or background. Students learned basic programming constructs and were introduced to computational thinking with hands-on, interactive activities.",
-		"audienceURL": "http://makeict.org",
-		"location": "Wichita, KS",
-		"url": "http://www.greenlightgo.org/education/humans-only/"
-	},{
-		"title": "Using gesture, gaze, and combination input schemes as alternatives to the computer mouse",
-		"date": "2018-10-03",
-		"audience": "HFES Annual Meeting",
-		"description": "Novel input devices can increase the bandwidth between users and their devices. Traditional desktop computing uses windows, icons, menus, and pointers – an interface built for the computer mouse and very effective for pointing-and-clicking. Alternative devices provide a variety of interactions including touch-free, gesture-based input and gaze-tracking to determine the user’s on-screen gaze location, but these input channels are not well-suited to a point-and-click interface. This study evaluates five new schemes, some multi-modal. These experimental schemes perform worse than mouse-based input for a picture sorting task, and motion-based gesture control creates more errors. Some gaze-based input has similar performance to the mouse while not creating additional workload.",
-		"audienceURL": "https://www.hfes.org/",
-		"location": "Philadelphia, PA",
-		"url": "https://drive.google.com/uc?export=download&id=14E0RwxrlkPApqP8_f2cDiPcaBRoEEVQQ",
-		"urlDirectDownload": true,
-		"icon": "powerpoint-icon.svg"
-	},{
-		"title": "Using gesture, gaze, and combined input schemes for new interfaces",
-		"date": "2017-12-01",
-		"audience": "Randall Chambers Competition",
-		"description": "Dr. Randall Chambers was a distinguished professor at WSU and Chief Life Scientist for NASA. He made a number of significant contributions to the field, and this award was created in his honor. Finalists present data and findings from recently completed research to an audience and a panel of judges who select one winner. My presentation featured work from my masters thesis in Human Factors and was the winning presentation in 2017.",
-		"audienceURL": "",
-		"location": "Wichita, KS"
-	},{
-		"title": "How can we improve human-computer interaction?",
-		"date": "2015-10-25",
-		"audience": "Senior Wednesday",
-		"description": "This HFES student-chapter outreach event gave us an opportunity to share our research interests with active seniors of Wichita.",
-		"audienceURL": "http://www.seniorwednesday.org/",
-		"location": "Wichita, KS"
-	},{
-		"title": "Making a makerspace",
-		"date": "2016-03-14",
-		"audience": "Science Cafe",
-		"description": "This talk gave listeners an introduction to maker culture and the global maker movement. The movement has been realized in Wichita through MakeICT — a nonprofit which operates a local community makerspace.",
-		"audienceURL": "http://sciencecafe-wichita.com/",
-		"location": "Wichita, KS"
-	},{
-		"title": "Embracing the Maker Culture in Wichita",
-		"date": "2015-10-07",
-		"audience": "Wichita Professional Communicators",
-		"description": "In this presentation, I shared this history of the maker movement and how the adoption of the maker culture in our local community has spawned a nonprofit, volunteer-ran makerspace.",
-		"audienceURL": "http://www.wichitaprofessionalcommunicators.com/",
-		"location": "Wichita, KS",
-		"url": "https://docs.google.com/presentation/d/1ouc0tppgJwf8AhuO0srT4DohNDHM9lMQtjyKRRmmvxg/edit?usp=sharing"
-	},{
-		"title": "The MakerSpace Revolution",
-		"date": "2016-03-28",
-		"audience": "Inventors Association of South Central Kansas",
-		"description": "The Inventors Association is a club of innovative individuals who meet regularly to share ideas, solve problems, and learn new things. I was invited to speak to them about how the open-source movement and low-cost, consumer-friendly manufacturing equipment has spawned a revolution of DIY'ers who are organizing in communities and facilities such as makerspaces. Makerspaces are open community labs incorporating elements of machine shops, workshops, studios, tools, equipment, knowledge, and people — a immense resource for inventors.",
-		"audienceURL": "http://www.inventkansas.com/",
-		"location": "Wichita, KS"
-	},{
-		"title": "Inventors and Inventions",
-		"date": "2015-11-23",
-		"audience": "Irving Elementary",
-		"description": "Kids can be naturally inquisitive and creative, which are important attributes for successful inventors as well. I had the opportunity to speak at Irving Elementary school about my experiences with creating, problem solving, and collaborating with others doing the same.",
-		"audienceURL": "https://www.usd259.org/irving",
-		"location": "Wichita, KS"
-	},{
-		"title": "Advanced Computer Programming Guest Speaker",
-		"date": "2013-11-15",
-		"audience": "Wichita Heights High School",
-		"description": "",
-		"audienceURL": "https://www.usd259.org/heights",
-		"location": "Wichita, KS"
-	},{
-		"title": "MakerSpace Revolution",
-		"date": "2015-11-12",
-		"audience": "Wichita State Entrepreneurship Forum Series",
-		"description": "This panel was hosted by the Center for Entreprenuership at Wichita State. Besides myself, the panel included individuals affiliated with makerspace and makerspace-like initiatives in the region. We spoke and answered questions about the broader maker culture and our own experiences.",
-		"audienceURL": "https://www.wichita.edu/academics/business/entrepreneurship/",
-		"location": "Wichita, KS"
-	},{
-		"title": "Starting a Non-profit 101",
-		"date": "2017-Various",
-		"audience": "The Incubator for Nonprofits of Kansas",
-		"audienceURL": "https://theinkinc.org/",
-		"description": "Individuals and groups who have recently started or were considering to start a non-profit attended this full-day workshop. The workshop was made up of several sessions, such as fund-raising, board recruitment/development, etc. The session I usually presented for \"101\", which gave general information about exactly what non-profits are, legal obligations for starting and maintaining one, and general information from my personal experiences in serving on boards.",
-		"location": "Wichita, KS"
-	},{
-		"title": "Altruism: a scientific perspective",
-		"date": "2017-01-29",
-		"audience": "Oasis Wichita",
-		"audienceURL": "https://wichitaoasis.org/",
-		"description": "This presentation explores the history and some biological foundations of altruism, which, perhaps suprisingly, is not a uniquely human characteristic.",
-		"location": "Wichita, KS",
-		"url": "https://drive.google.com/open?id=1BvCkrnqsV9F5shcVHklx7sSwnIfOTIFnbocnKtKbT4o"
-	},{
-		"title": "You suck at thinking - A talk on Cognitive Biases",
-		"date": "2017-03-26",
-		"audience": "Oasis Wichita",
-		"audienceURL": "https://wichitaoasis.org/",
-		"description": "Humans are subject to various forms of cognitive bias. These lapses in judgement make it difficult to accurately asses situations and arguments, and are an unavoidable effect of our experiences, environments, and basic human psychology. This talk includes some of the most prominent forms of cognitive bias that are encountered in everyday life. Together, we can better understand and learn how to identify our own biases, as well as those with whom we hold discussions.",
-		"location": "Wichita, KS",
-		"url": "https://drive.google.com/open?id=1Ml39NADB32_gvPxd9SwHuvIXyuaDyWyjslG_TBkM0_M"
-	},{
-		"title": "An introduction to (in)effective arguing",
-		"date": "2016-11-27",
-		"audience": "Wichita Animal Rights Group",
-		"description": "We review some of the most common logical fallacies that are presented as arguments against animal welfare activism, how to identify them, how to defeat them, and how to avoid using them ourselves.",
-		"audienceURL": "https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/",
-		"location": "Wichita, KS",
-		"url": "https://drive.google.com/open?id=1tBzG4xP-ISR9dAUm6yde305nq_pSgfErSJQXSj3J-9M"
-	},{
-		"title": "Makerspaces and YOU",
-		"date": "2016-02-04",
-		"audience": "ENTR 310 - Entrepreneurial Experience",
-		"description": "A local entreprenuer and WSU isntructor invited me to speak to her class about makerspaces. The discussion included my experience in founding our local nonprofit makerspace, what a makerspace can offer to entreprenuers (veterans and newcomers), and an engaging question-and-answer session with the students.",
-		"location": "Wichita, KS"
-	},{
-		"title": "Ask a Single Man: Panel Discussion",
-		"date": "2016-11-12",
-		"audience": "The Finishing School for Modern Women",
-		"description": "Gain a better understanding of how single men think in this lively panel discussion by learning what men wish women knew about them and anonymously asking them any question you like.",
-		"audienceURL": "https://www.finishingschoolformodernwomen.com/",
-		"location": "Wichita, KS"
-	},{
-		"title": "How to pitch your idea",
-		"date": "2016-03-01",
-		"audience": "Shocker Startup",
-		"description": "This short presentation gave pointers, tips, and advice to creating successful pitches.",
-		"location": "Wichita, KS"
-	},{
-		"title": "Seeking Success",
-		"date": "2013-03-28",
-		"audience": "Upward Bound Wichita Prep",
-		"audienceURL": "https://www.wichita.edu/services/diversity/trio/upward_bound_wichita_prep/",
-		"description": "",
-		"location": "Wichita, KS"
-	},{
-		"title": "LAMP Stack Intro",
-		"date": "2014-01-15",
-		"audience": "Wichita State Linux User's Group",
-		"audienceURL": "http://wulug.cs.wichita.edu/",
-		"description": "",
-		"location": "Wichita, KS",
-		"url": "https://docs.google.com/presentation/d/1XItMYBwapmxS_pEd14TpumAFLADNf2niO5y1OzWZkCs/"
-	},{
-		"title": "Intro to the GNU Image Manipulation Program (GIMP)",
-		"date": "2011-04-21",
-		"audience": "Wichita community",
-		"description": "",
-		"location": "Wichita, KS",
-		"url": "https://www.youtube.com/watch?v=IGJhKQlxtHg&list=PL61021ED14B05C02B"
-	},{
-		"title": "Intro to real computing for humans",
-		"date": "2014-03-05",
-		"audience": "Robotics Implmentation Group",
-		"description": "",
-		"location": "Wichita, KS",
-		"url": "https://docs.google.com/presentation/d/1YScEhlZDE0O8GCpWCSs_wfnC52qDZv_cqNv8yRr1BUY/"
-	},{
-		"title": "On the county's proposed budget cuts",
-		"date": "2015-06-29",
-		"audience": "Sedgwick County Commision",
-		"audienceURL": "https://www.sedgwickcounty.org/",
-		"description": "In 2015, the Sedgwick County commissioners proposed a new budget which cut a significant amount of funding to a number of public interests, including public health, economic development, <a href=\"http://exploration.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Exploration Place</a>, and the zoo. I spoke out publicly against the cuts when the commission's was open to public comment and at a staged rally in downtown Wichita. After considerable public demand, the finalized budget restored some of the funding which was cut.",
-		"location": "Wichita, KS",
-		"url": "http://sedgwick.granicus.com/player/clip/3063?view_id=24&entrytime=2904&stoptime=5570&autostart=0&embed=1"
-	},{
-		"title": "A comparison of gaze-based and gesture-based input for a point-and-click task",
-		"date": "2015-04-24",
-		"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
-		"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
-		"description": "Alternative input devices to the computer mouse are becoming more affordable and accessible. With greater availability, they have the potential to provide greater access to information for more users in more environments. However, most user interfaces are built to be mouse-driven, and the adoption of these new technologies may depend on their ability to work with these existing interfaces. This study examined performance with gesture-control and gaze-tracking devices and compared them to a traditional mouse for a standard Fitts' Law point-and-click task. Participants were capable of using both gesture-controlled and gaze-tracking devices to control an on-screen keyboard quickly and accurately enough to complete the majority of trials. However, both devices were significantly slower than the mouse, and were more prone to miss-clicks and failures. Our subjective measures indicate that participants found these alternative input devices to be more taxing than the familiar mouse. In order to make effective use of these devices, researchers, designers, and developers must find control schemes which take advantage of the alternative devices' benefits while curtailing the drawbacks. While this study does show that these alternative input devices can be used to control a computer's cursor in a point-and-click environment, it is inefficient, error-prone, and difficult for the user.",
-		"location": "Wichita, KS",
-		"url": "https://soar.wichita.edu/handle/10057/11405"
-	},{
-		"title": "New input schemes for new devices",
-		"date": "2017-04-28",
-		"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
-		"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
-		"description": "Novel input devices can potentially increase the bandwidth between users and their devices. Traditional desktop computing uses windows, icons, menus, and pointers-an interface schemebuilt for the computer mouse and very effective for pointing-and-clicking. Alternative devices provide a variety of interactions including touch-free, gesture-based input and gaze-tracking to sense the location of the user's on-screen gaze location. A previous study demonstrates that such input channels are not well-suited to a point-and-click interface alone. This study evaluates new schemes designed for these devices, including multi-modal input schemes. These experimental schemes perform worse than mouse-based input for a picture sorting task, and motion-based gesture control creates more errors. Only gaze-based input without gestures did not create more workload across all workload factors when compared to traditional mouse-based input.",
-		"location": "Wichita, KS",
-		"url": "https://soar.wichita.edu/handle/10057/13270"
-	}
-]
+{
+	"categories": [
+		"Human-computer Interaction",
+		"Maker Culture",
+		"Technical talk or instruction",
+		"Career",
+		"Other"
+	],
+	"talks": [
+		{
+			"category": "Technical talk or instruction",
+			"title": "Intelligent GUI Automation with Sikuli",
+			"description": "By combining computer vision (OpenCV) and coding (Python+Java), Sikuli can be used to automate any graphical user interface with programmable intelligence. The vision module allows users programmatically identify visual elements, query the screen, and perform logical operations based on the results. This can be a powerful tool for GUI testing or automating UIs when an API is not available.",
+			"date": "2015-01-29",
+			"audience": "devICT",
+			"audienceURL": "https://devict.org/",
+			"location": "Wichita, KS",
+			"embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WGEX0dz_f_w\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+			"url": "https://www.youtube.com/watch?v=WGEX0dz_f_w"
+		},{
+			"category": "Technical talk or instruction",
+			"title": "Python Bootcamp",
+			"audience": "Wichita State",
+			"description": "In this recorded, live 3-day workshop, we install tools for Python development, learn fundamental programming constructs, and use Qt via PySide to create interactive GUI applications.",
+			"date": "2018-08-08",
+			"location": "Wichita, KS",
+			"embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uNIc1FWcZUs?list=PLf5AqIYjC0JmZZ7CuLH5k0bEZj6V_90aW\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+			"url": "https://www.youtube.com/playlist?list=PLf5AqIYjC0JmZZ7CuLH5k0bEZj6V_90aW"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "A Comparison of Gaze-Based and Gesture-Based Input for a Point-and-Click Task",
+			"date": "2015-08-06",
+			"description": "Alternative input devices based on gaze and gesture are being developed as an assistive technology or supplementary methods when traditional mouse and keyboard interaction is not convenient. Low-price peripheral devices, as such as eye-trackers and Leap Motion, have increased dramatically recently, which makes alternative input devices more affordable and feasible. This study compared gesture-based input and eye-gaze input to the traditional mouse using a Fitts's Law paradigm to assess performance for each input method.",
+			"audience": "Human Computer Interaction International Conference",
+			"audienceURL": "http://hci.international/",
+			"location": "Los Angeles, CA",
+			"url": "https://drive.google.com/open?id=0B8gkx_wL0WtndlFCVW1RRTI3b28"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "Computing for Humans",
+			"date": "2014-04-19",
+			"audience": "MakeICT",
+			"description": "This mixed-age, public workshop was designed to teach the fundamentals of computer programming to anybody and everybody, regardless of their experience or background. Students learned basic programming constructs and were introduced to computational thinking with hands-on, interactive activities.",
+			"audienceURL": "http://makeict.org",
+			"location": "Wichita, KS",
+			"url": "http://www.greenlightgo.org/education/humans-only/"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "Using gesture, gaze, and combination input schemes as alternatives to the computer mouse",
+			"date": "2018-10-03",
+			"audience": "HFES Annual Meeting",
+			"description": "Novel input devices can increase the bandwidth between users and their devices. Traditional desktop computing uses windows, icons, menus, and pointers – an interface built for the computer mouse and very effective for pointing-and-clicking. Alternative devices provide a variety of interactions including touch-free, gesture-based input and gaze-tracking to determine the user’s on-screen gaze location, but these input channels are not well-suited to a point-and-click interface. This study evaluates five new schemes, some multi-modal. These experimental schemes perform worse than mouse-based input for a picture sorting task, and motion-based gesture control creates more errors. Some gaze-based input has similar performance to the mouse while not creating additional workload.",
+			"audienceURL": "https://www.hfes.org/",
+			"location": "Philadelphia, PA",
+			"url": "https://drive.google.com/uc?export=download&id=14E0RwxrlkPApqP8_f2cDiPcaBRoEEVQQ",
+			"urlDirectDownload": true,
+			"icon": "powerpoint-icon.svg"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "Using gesture, gaze, and combined input schemes for new interfaces",
+			"date": "2017-12-01",
+			"audience": "Randall Chambers Competition",
+			"description": "Dr. Randall Chambers was a distinguished professor at WSU and Chief Life Scientist for NASA. He made a number of significant contributions to the field, and this award was created in his honor. Finalists present data and findings from recently completed research to an audience and a panel of judges who select one winner. My presentation featured work from my masters thesis in Human Factors and was the winning presentation in 2017.",
+			"audienceURL": "",
+			"location": "Wichita, KS"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "How can we improve human-computer interaction?",
+			"date": "2015-10-25",
+			"audience": "Senior Wednesday",
+			"description": "This HFES student-chapter outreach event gave us an opportunity to share our research interests with active seniors of Wichita.",
+			"audienceURL": "http://www.seniorwednesday.org/",
+			"location": "Wichita, KS"
+		},{
+			"category": "Maker Culture",
+			"title": "Making a makerspace",
+			"date": "2016-03-14",
+			"audience": "Science Cafe",
+			"description": "This talk gave listeners an introduction to maker culture and the global maker movement. The movement has been realized in Wichita through MakeICT — a nonprofit which operates a local community makerspace.",
+			"audienceURL": "http://sciencecafe-wichita.com/",
+			"location": "Wichita, KS"
+		},{
+			"category": "Maker Culture",
+			"title": "Embracing the Maker Culture in Wichita",
+			"date": "2015-10-07",
+			"audience": "Wichita Professional Communicators",
+			"description": "In this presentation, I shared this history of the maker movement and how the adoption of the maker culture in our local community has spawned a nonprofit, volunteer-ran makerspace.",
+			"audienceURL": "http://www.wichitaprofessionalcommunicators.com/",
+			"location": "Wichita, KS",
+			"url": "https://docs.google.com/presentation/d/1ouc0tppgJwf8AhuO0srT4DohNDHM9lMQtjyKRRmmvxg/edit?usp=sharing"
+		},{
+			"category": "Maker Culture",
+			"title": "The MakerSpace Revolution",
+			"date": "2016-03-28",
+			"audience": "Inventors Association of South Central Kansas",
+			"description": "The Inventors Association is a club of innovative individuals who meet regularly to share ideas, solve problems, and learn new things. I was invited to speak to them about how the open-source movement and low-cost, consumer-friendly manufacturing equipment has spawned a revolution of DIY'ers who are organizing in communities and facilities such as makerspaces. Makerspaces are open community labs incorporating elements of machine shops, workshops, studios, tools, equipment, knowledge, and people — a immense resource for inventors.",
+			"audienceURL": "http://www.inventkansas.com/",
+			"location": "Wichita, KS"
+		},{
+			"category": "Career",
+			"title": "Inventors and Inventions",
+			"date": "2015-11-23",
+			"audience": "Irving Elementary",
+			"description": "Kids can be naturally inquisitive and creative, which are important attributes for successful inventors as well. I had the opportunity to speak at Irving Elementary school about my experiences with creating, problem solving, and collaborating with others doing the same.",
+			"audienceURL": "https://www.usd259.org/irving",
+			"location": "Wichita, KS"
+		},{
+			"category": "Career",
+			"title": "Advanced Computer Programming Guest Speaker",
+			"date": "2013-11-15",
+			"audience": "Wichita Heights High School",
+			"description": "",
+			"audienceURL": "https://www.usd259.org/heights",
+			"location": "Wichita, KS"
+		},{
+			"category": "Maker Culture",
+			"title": "MakerSpace Revolution",
+			"date": "2015-11-12",
+			"audience": "Wichita State Entrepreneurship Forum Series",
+			"description": "This panel was hosted by the Center for Entreprenuership at Wichita State. Besides myself, the panel included individuals affiliated with makerspace and makerspace-like initiatives in the region. We spoke and answered questions about the broader maker culture and our own experiences.",
+			"audienceURL": "https://www.wichita.edu/academics/business/entrepreneurship/",
+			"location": "Wichita, KS"
+		},{
+			"category": "Other",
+			"title": "Starting a Non-profit 101",
+			"date": "2017-Various",
+			"audience": "The Incubator for Nonprofits of Kansas",
+			"audienceURL": "https://theinkinc.org/",
+			"description": "Individuals and groups who have recently started or were considering to start a non-profit attended this full-day workshop. The workshop was made up of several sessions, such as fund-raising, board recruitment/development, etc. The session I usually presented for \"101\", which gave general information about exactly what non-profits are, legal obligations for starting and maintaining one, and general information from my personal experiences in serving on boards.",
+			"location": "Wichita, KS"
+		},{
+			"category": "Other",
+			"title": "Altruism: a scientific perspective",
+			"date": "2017-01-29",
+			"audience": "Oasis Wichita",
+			"audienceURL": "https://wichitaoasis.org/",
+			"description": "This presentation explores the history and some biological foundations of altruism, which, perhaps suprisingly, is not a uniquely human characteristic.",
+			"location": "Wichita, KS",
+			"url": "https://drive.google.com/open?id=1BvCkrnqsV9F5shcVHklx7sSwnIfOTIFnbocnKtKbT4o"
+		},{
+			"category": "Other",
+			"title": "You suck at thinking - A talk on Cognitive Biases",
+			"date": "2017-03-26",
+			"audience": "Oasis Wichita",
+			"audienceURL": "https://wichitaoasis.org/",
+			"description": "Humans are subject to various forms of cognitive bias. These lapses in judgement make it difficult to accurately asses situations and arguments, and are an unavoidable effect of our experiences, environments, and basic human psychology. This talk includes some of the most prominent forms of cognitive bias that are encountered in everyday life. Together, we can better understand and learn how to identify our own biases, as well as those with whom we hold discussions.",
+			"location": "Wichita, KS",
+			"url": "https://drive.google.com/open?id=1Ml39NADB32_gvPxd9SwHuvIXyuaDyWyjslG_TBkM0_M"
+		},{
+			"category": "Other",
+			"title": "An introduction to (in)effective arguing",
+			"date": "2016-11-27",
+			"audience": "Wichita Animal Rights Group",
+			"description": "We review some of the most common logical fallacies that are presented as arguments against animal welfare activism, how to identify them, how to defeat them, and how to avoid using them ourselves.",
+			"audienceURL": "https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/",
+			"location": "Wichita, KS",
+			"url": "https://drive.google.com/open?id=1tBzG4xP-ISR9dAUm6yde305nq_pSgfErSJQXSj3J-9M"
+		},{
+			"category": "Maker Culture",
+			"title": "Makerspaces and YOU",
+			"date": "2016-02-04",
+			"audience": "ENTR 310 - Entrepreneurial Experience",
+			"description": "A local entreprenuer and WSU isntructor invited me to speak to her class about makerspaces. The discussion included my experience in founding our local nonprofit makerspace, what a makerspace can offer to entreprenuers (veterans and newcomers), and an engaging question-and-answer session with the students.",
+			"location": "Wichita, KS"
+		},{
+			"category": "Other",
+			"title": "Ask a Single Man: Panel Discussion",
+			"date": "2016-11-12",
+			"audience": "The Finishing School for Modern Women",
+			"description": "Gain a better understanding of how single men think in this lively panel discussion by learning what men wish women knew about them and anonymously asking them any question you like.",
+			"audienceURL": "https://www.finishingschoolformodernwomen.com/",
+			"location": "Wichita, KS"
+		},{
+			"category": "Other",
+			"title": "How to pitch your idea",
+			"date": "2016-03-01",
+			"audience": "Shocker Startup",
+			"description": "This short presentation gave pointers, tips, and advice to creating successful pitches.",
+			"location": "Wichita, KS"
+		},{
+			"category": "Career",
+			"title": "Seeking Success",
+			"date": "2013-03-28",
+			"audience": "Upward Bound Wichita Prep",
+			"audienceURL": "https://www.wichita.edu/services/diversity/trio/upward_bound_wichita_prep/",
+			"description": "",
+			"location": "Wichita, KS"
+		},{
+			"category": "Technical talk or instruction",
+			"title": "LAMP Stack Intro",
+			"date": "2014-01-15",
+			"audience": "Wichita State Linux User's Group",
+			"audienceURL": "http://wulug.cs.wichita.edu/",
+			"description": "",
+			"location": "Wichita, KS",
+			"url": "https://docs.google.com/presentation/d/1XItMYBwapmxS_pEd14TpumAFLADNf2niO5y1OzWZkCs/"
+		},{
+			"category": "Technical talk or instruction",
+			"title": "Intro to the GNU Image Manipulation Program (GIMP)",
+			"date": "2011-04-21",
+			"audience": "Wichita community",
+			"description": "",
+			"location": "Wichita, KS",
+			"url": "https://www.youtube.com/watch?v=IGJhKQlxtHg&list=PL61021ED14B05C02B"
+		},{
+			"category": "Technical talk or instruction",
+			"title": "Intro to real computing for humans",
+			"date": "2014-03-05",
+			"audience": "Robotics Implmentation Group",
+			"description": "",
+			"location": "Wichita, KS",
+			"url": "https://docs.google.com/presentation/d/1YScEhlZDE0O8GCpWCSs_wfnC52qDZv_cqNv8yRr1BUY/"
+		},{
+			"category": "Other",
+			"title": "On the county's proposed budget cuts",
+			"date": "2015-06-29",
+			"audience": "Sedgwick County Commision",
+			"audienceURL": "https://www.sedgwickcounty.org/",
+			"description": "In 2015, the Sedgwick County commissioners proposed a new budget which cut a significant amount of funding to a number of public interests, including public health, economic development, <a href=\"http://exploration.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Exploration Place</a>, and the zoo. I spoke out publicly against the cuts when the commission's was open to public comment and at a staged rally in downtown Wichita. After considerable public demand, the finalized budget restored some of the funding which was cut.",
+			"location": "Wichita, KS",
+			"url": "http://sedgwick.granicus.com/player/clip/3063?view_id=24&entrytime=2904&stoptime=5570&autostart=0&embed=1"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "A comparison of gaze-based and gesture-based input for a point-and-click task",
+			"date": "2015-04-24",
+			"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
+			"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
+			"description": "Alternative input devices to the computer mouse are becoming more affordable and accessible. With greater availability, they have the potential to provide greater access to information for more users in more environments. However, most user interfaces are built to be mouse-driven, and the adoption of these new technologies may depend on their ability to work with these existing interfaces. This study examined performance with gesture-control and gaze-tracking devices and compared them to a traditional mouse for a standard Fitts' Law point-and-click task. Participants were capable of using both gesture-controlled and gaze-tracking devices to control an on-screen keyboard quickly and accurately enough to complete the majority of trials. However, both devices were significantly slower than the mouse, and were more prone to miss-clicks and failures. Our subjective measures indicate that participants found these alternative input devices to be more taxing than the familiar mouse. In order to make effective use of these devices, researchers, designers, and developers must find control schemes which take advantage of the alternative devices' benefits while curtailing the drawbacks. While this study does show that these alternative input devices can be used to control a computer's cursor in a point-and-click environment, it is inefficient, error-prone, and difficult for the user.",
+			"location": "Wichita, KS",
+			"url": "https://soar.wichita.edu/handle/10057/11405"
+		},{
+			"category": "Human-computer Interaction",
+			"title": "New input schemes for new devices",
+			"date": "2017-04-28",
+			"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
+			"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
+			"description": "Novel input devices can potentially increase the bandwidth between users and their devices. Traditional desktop computing uses windows, icons, menus, and pointers-an interface schemebuilt for the computer mouse and very effective for pointing-and-clicking. Alternative devices provide a variety of interactions including touch-free, gesture-based input and gaze-tracking to sense the location of the user's on-screen gaze location. A previous study demonstrates that such input channels are not well-suited to a point-and-click interface alone. This study evaluates new schemes designed for these devices, including multi-modal input schemes. These experimental schemes perform worse than mouse-based input for a picture sorting task, and motion-based gesture control creates more errors. Only gaze-based input without gestures did not create more workload across all workload factors when compared to traditional mouse-based input.",
+			"location": "Wichita, KS",
+			"url": "https://soar.wichita.edu/handle/10057/13270"
+		}
+	]
+}

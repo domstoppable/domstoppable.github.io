@@ -7,7 +7,7 @@ import icon from '../images/publications-icon.svg';
 import '../styles/publications.css';
 
 import publications from '../data/publications.json';
-import talks from '../data/talks.json';
+import talkInfo from '../data/talks.json';
 
 import { parseDate } from '../utils.js';
 
@@ -17,6 +17,10 @@ export default class Page extends Component {
 		super();
 
 		this.publications = publications;
+
+		let {categories, talks} = talkInfo;
+
+		this.categories = categories;
 		this.talks = talks.sort((a,b) => a.date < b.date);
 	}
 
@@ -35,8 +39,19 @@ export default class Page extends Component {
 
 					<h3 style={{marginTop: "1em"}}>Talks</h3>
 					{
-						this.talks.map((talk, index) => {
-							return <TalkBlock key={index} {...talk} />
+						this.categories.map((category, index) => {
+							return <div key={index} className="talk-category">
+								<details open="1">
+									<summary>
+										<h4>{category}</h4>
+									</summary>
+									{
+										this.talks.filter((t)=>t.category===category).map((talk, index) => {
+											return <TalkBlock key={index} {...talk} />
+										})
+									}
+								</details>
+							</div>
 						})
 					}
 				</div>
@@ -69,32 +84,20 @@ class PublicationBlock extends Component {
 			title = <a href={this.props.url} target="_blank" rel="noopener noreferrer">{this.props.title}</a>
 		}
 
-		return <div className="hang">
-			{this.props.authors.join(', ')}. ({this.props.date}). {title}. In <em>{this.props.journal}</em> {vol}{this.props.publisher}.
-		</div>
+		return <InfoCard
+				heading={this.props.title}
+				iconNode={<Icon url={this.props.url} />}
+				iconURL={this.props.url}
+			>
+				<div className="hang">
+					{this.props.authors.join(', ')}. ({this.props.date}). {this.props.title}. In <em>{this.props.journal}</em> {vol}{this.props.publisher}.
+				</div>
+			</InfoCard>
 	}
 }
 
 class TalkBlock extends Component {
 	render() {
-		let iconNode = null;
-		if(this.props.url){
-			let icon = 'link-icon.svg';
-			if(this.props.icon){
-				icon = this.props.icon;
-			}else if(this.props.url.match(/https:\/\/.*\.?youtube\.com/)){
-				icon = 'youtube-icon.svg';
-			}else if(this.props.url.match(/https:\/\/.*\.google\.com/)){
-				icon = 'google-drive-icon.svg';
-			}else if(this.props.url.match(/https?:\/\/.*\.?greenlightgo\.org/)){
-				icon = 'greenlightgo-logo.svg';
-			}
-			iconNode = <div>
-				<img src={'../images/' + icon} alt='Link icon' width="48" height="48"/>
-				<div>View</div>
-			</div>;
-		}
-
 		let audience = this.props.audience;
 		if(this.props.audienceURL){
 			audience = <a href={this.props.audienceURL} target="_blank" rel="noopener noreferrer">{this.props.audience}</a>;
@@ -109,11 +112,35 @@ class TalkBlock extends Component {
 						{date.toLocaleString('en-us', {year: 'numeric', month: 'long', day: 'numeric'})}
 					</div>
 				}
-				iconNode={iconNode}
+				iconNode={<Icon url={this.props.url} />}
 				iconURL={this.props.url}
 				urlDirectDownload={this.props.urlDirectDownload}
 			>
 				{this.props.description ? <div dangerouslySetInnerHTML={{__html:this.props.description}} /> : null}
 			</InfoCard>;
+	}
+}
+
+class Icon extends Component {
+	render() {
+		if(this.props.url){
+			let icon = 'link-icon.svg';
+
+			if(this.props.icon){
+				icon = this.props.icon;
+			}else if(this.props.url.match(/https:\/\/.*\.?youtube\.com/)){
+				icon = 'youtube-icon.svg';
+			}else if(this.props.url.match(/https:\/\/.*\.google\.com/)){
+				icon = 'google-drive-icon.svg';
+			}else if(this.props.url.match(/https?:\/\/.*\.?greenlightgo\.org/)){
+				icon = 'greenlightgo-logo.svg';
+			}
+			return <div>
+				<img src={'../images/' + icon} alt='Link icon' width="48" height="48"/>
+				<div>View</div>
+			</div>;
+		}else{
+			return null;
+		}
 	}
 }
