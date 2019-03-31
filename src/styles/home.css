@@ -14,7 +14,7 @@
 	font-size: 12pt;
 
 	padding: 0.25em 0.75em;
-	box-shadow: .125em .125em .125em #222;
+	box-shadow: .125em .125em .125em #444;
 }
 
 .contact-block:first-child,
@@ -31,6 +31,7 @@
 .contact-block,
 .contact-block a {
 	color: var(--theme-1);
+	text-decoration: none;
 }
 
 .contact-block img {
