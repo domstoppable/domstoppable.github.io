@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Card, { FlipCard } from '../components/card.js';
+import Card, { FlipCard, twirlCards } from '../components/card.js';
 
 import icon from '../images/academics-icon.svg';
 import '../styles/academics.css';
@@ -37,16 +37,25 @@ export default class AcademicsPage extends Component {
 		];
 	}
 
+	componentDidMount(){
+		window.setTimeout(()=>twirlCards(), 1000);
+	}
+
 	render() {
 		return (
 			<div className="page">
 				<h2 className="banner"><img src={icon} className="icon" alt="Academics icon" width="32" height="32"/>Academics</h2>
 
 				<div className="content">
+					<div className="intro">
+						<p>Engineering always felt like the right "fit" for me, and Computer Science seemed to be where I had the greatest natural abilities. I began studying CS after graduating high school in 2003 and finished my BS in 2006. Still wanting to learn more, I went on to complete an MS in 2008. I then spent several years working as a software developer and technology consultant, until taking what I expected to be a relatively short break from industry jobs.</p>
+						<p>While teaching engineering courses, I had a chance encounter which introduced me to human factors research. I quickly realized this was my next new adventure and applied to the graduate program. I completed my MA in psychology in 2017, and I expect to complete my PhD in 2020.</p>
+					</div>
+
 					<div className="degree-blocks">
 					{
 						this.degrees.map((degree) => {
-							return <DegreeBlock key={degree.type+'-'+degree.field} {...degree} />
+							return <DegreeBlock key={degree.type+'-'+degree.field} {...degree}/>
 						})
 					}
 					</div>
@@ -80,6 +89,7 @@ export default class AcademicsPage extends Component {
 class DegreeBlock extends Component {
 	render() {
 		return <FlipCard
+			flipped={this.props.flipped}
 			className={'degree-block' + (this.props.finished ? '': ' pending')}
 			front={
 				<div>

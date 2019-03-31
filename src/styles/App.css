@@ -38,7 +38,7 @@ h2, h3, p {
 }
 
 p {
-	margin-bottom: 1em;
+	margin-bottom: 0.75em;
 }
 
 p:last-child {
@@ -185,6 +185,10 @@ nav>.selected a{
 	font-size: 14pt;
 }
 
+.content>.intro {
+	margin-bottom: 1em;
+}
+
 .content .logo {
 	display: none;
 }
@@ -218,7 +222,6 @@ nav>.selected a{
 	border: 2px solid var(--theme-5);
 	margin: auto;
 	margin-bottom: 1em;
-	box-shadow: .33em .33em .33em #444;
 	background: var(--theme-7);
 	width: 100%;
 }
@@ -236,12 +239,17 @@ nav>.selected a{
 	padding: 0.5em;
 }
 
+.info-card>.contents:first-child{
+	padding-top: 0;
+}
+
+
 .info-card .details {
-	margin: 0.5em 0;
 }
 
 .info-card .subheading {
 	font-weight: bold;
+	margin-bottom: 0.5em;
 }
 
 ul {
@@ -267,10 +275,6 @@ li {
 
 
 
-
-.flip-card {
-}
-
 .flip-card-inner {
 	position: relative;
 	width: 100%;
@@ -279,10 +283,10 @@ li {
 	transition-duration: .5s;
 	transition-delay: 0.25s;
 	transform-style: preserve-3d;
-	
 }
 
-.flip-card:hover .flip-card-inner {
+.flip-card:hover .flip-card-inner,
+.flip-card.flipped .flip-card-inner {
 	transform: rotateY(180deg);
 	transition-delay: 0s;
 }
@@ -342,4 +346,12 @@ li {
 
 .hide {
 	display: none;
+}
+
+summary {
+	cursor: pointer;
+}
+
+details>summary>* {
+	display: inline-block;
 }
