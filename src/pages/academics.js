@@ -48,8 +48,8 @@ export default class AcademicsPage extends Component {
 
 				<div className="content">
 					<div className="intro">
-						<p>Engineering always felt like the right "fit" for me, and Computer Science seemed to be where I had the greatest natural abilities. I began studying CS after graduating high school in 2003 and finished my BS in 2006. Still wanting to learn more, I went on to complete an MS in 2008. I then spent several years working as a software developer and technology consultant, until taking what I expected to be a relatively short break from industry jobs.</p>
-						<p>While teaching engineering courses, I had a chance encounter which introduced me to human factors research. I quickly realized this was my next new adventure and applied to the graduate program. I completed my MA in psychology in 2017, and I expect to complete my PhD in 2020.</p>
+						<p>Engineering always felt like the right fit for me, and Computer Science seemed to be where I had the greatest natural abilities. I began studying CS after graduating high school in 2003 and finished my BS in 2006. Wanting more, I relocated and completed an MS in 2008. I then spent several years working as a software developer and technology consultant, until taking what I expected to be a short break from industry work.</p>
+						<p>While teaching engineering courses, a chance encounter introduced me to human factors research. I quickly realized this was my next new adventure: an opportunity to learn new things while applying my existing skills to improve systems. I completed my MA in 2017 and expect to complete my PhD in 2020.</p>
 					</div>
 
 					<div className="degree-blocks">

@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Newsmaker of the Year",
+		"name": "NewsMaker of the Year",
 		"date": "2015-02-03",
 		"org": "Wichita Business Journal",
 		"type": "community",
-		"details": "<a href=\"https://www.bizjournals.com/wichita/\" target=\"_blank\" rel=\"noopener noreferrer\">The Wichita Business Journal</a> recognizes Wichita-area business leaders who have made newsworthy differences in the community. I was recognized by the WBJ primarily for work I did with <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. Other <a href=\"https://www.bizjournals.com/wichita/special/2014/newsmakers\" target=\"_blank\" rel=\"noopener noreferrer\">NewsMakers</a> that year included the mayor of Wichita, the president of Wichita State University, and others.",
+		"details": "<a href=\"https://www.bizjournals.com/wichita/\" target=\"_blank\" rel=\"noopener noreferrer\">The Wichita Business Journal</a> recognizes local business leaders who have made newsworthy differences in the community. I was recognized by the WBJ primarily for work I did with <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. Other <a href=\"https://www.bizjournals.com/wichita/special/2014/newsmakers\" target=\"_blank\" rel=\"noopener noreferrer\">NewsMakers</a> that year included the mayor of Wichita, the president of Wichita State University, and others.",
 		"url": "https://www.bizjournals.com/wichita/special/2014/newsmakers",
 		"logo": "wbj-logo.svg"
 	},{
@@ -19,7 +19,7 @@
 		"name": "GRASP Honorable Mention",
 		"org": "Wichita State University Graduate School",
 		"date": "2017-04-28",
-		"details": "The Graduate Research and Scholarly Projects (GRASP) Symposium is an annual event where graduate students can share their work with the rest of the university and the wider local community. Judges score presentations on the strength and content of research, visual design and organization, and presentation communication and effectiveness. My presentation on <a href=\"https://soar.wichita.edu/handle/10057/13270\" target=\"_blank\" rel=\"noopener noreferrer\">New Input Schemes for New Devices</a> received an Honorable Mention and a cash prize.",
+		"details": "The Graduate Research and Scholarly Projects (GRASP) Symposium is an annual event where graduate students can share their work with the rest of the university and the wider community. Judges score presentations on the strength and content of research, visual design and organization, and presentation communication and effectiveness. My presentation on <a href=\"https://soar.wichita.edu/handle/10057/13270\" target=\"_blank\" rel=\"noopener noreferrer\">New Input Schemes for New Devices</a> received an Honorable Mention and a cash prize.",
 		"type": "academic",
 		"url": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
 		"logo": "wsu-grasp-logo.svg"
@@ -50,7 +50,7 @@
 		"name": "Knight Foundation Fund Grant ($100,000)",
 		"org": "Wichita Community Foundation",
 		"date": "2014-11-24",
-		"details": "<p>Following their initial grant, the Wichita Community Foundation later awarded $100,000 <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. The funds were used to seed an 8,700 sq foot community makerspace. Capital purchases included equipment for a woodshop, metalshop, ceramics studio, electronics, lab, screen printing studio, textiles studio, \"fab lab\" (laser cutter, 3d printers, etc.), and more. The funding also covered some initial operating expenses (rent, utilities, insurance, etc).</p><p>The MakeICT makerspace is now fully self-sufficient through membership dues and donations. Additionally, it has served as a fiscal sponsor and incubator for spin-off nonprofits with similar missions.</p>",
+		"details": "<p>Following an initial grant, the Wichita Community Foundation awarded an additional $100,000 to <a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a>. The funds were used to seed an 8,700 sq foot community makerspace. Capital purchases included equipment for a woodshop, metalshop, ceramics studio, electronics lab, screen printing studio, textiles studio, \"fab lab\" (laser cutter, 3d printers, etc.), and more. The funding also covered some initial operating expenses (rent, utilities, insurance, etc).</p><p>The MakeICT makerspace is now fully self-sufficient through membership dues and donations. Additionally, it has served as a fiscal sponsor and incubator for spin-off nonprofits with similar missions.</p>",
 		"type": "community",
 		"url": "https://wichitacf.org/nonprofits/grants/available-funding/knight-foundation-fund",
 		"logo": "wcf-logo.svg"

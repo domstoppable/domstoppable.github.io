@@ -79,11 +79,6 @@ class PublicationBlock extends Component {
 			} 
 		}
 
-		let title = this.props.title;
-		if(this.props.url){
-			title = <a href={this.props.url} target="_blank" rel="noopener noreferrer">{this.props.title}</a>
-		}
-
 		return <InfoCard
 				heading={this.props.title}
 				iconNode={<Icon url={this.props.url} />}

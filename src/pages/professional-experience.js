@@ -32,10 +32,8 @@ export default class Page extends Component {
 
 				<div className="content">
 					<div className="intro">
-						<p>After a decade in the tech industry, I found myself back in academia so that I might use my skills to tackle new problems. I'm near the end of my PhD, and when I'm not working on my dissertation, I'm a research assistant testing theories on perception and cognition. My day-to-day includes brainstorming research methods, designing experiments, writing software for those experiments, analyzing data, writing reports, and plenty of reading.</p>
-						<p>My professional background is primarily in software development, having worked for small and medium-sized companies and as a freelancer. I've designed, developed, and deployed countless programs, web-sites, mobile apps, plugins, and libraries for a variety of employers and clients.</p>
-						<p>As technologist in the healthcare industry, I had the opportunity to work directly with clinicians and providers so that I could design and develop solutions to integrate new techonologies into their workflow in useful ways.</p>
-						<p>As an educator, I've had the wonderful experience of sharing some of my passions with enthusiastic learners. </p>
+						<p>After a decade in the tech industry, I set out to learn new ways to solve problems. With a professional background primarily in software engineering, I have designed, developed, and deployed countless programs, web-sites, mobile apps, plugins, and libraries for a wide variety of employers and clients, from healthcare providers to local artists. Presently, I'm a research assistant studying and testing theories on perception and cognition, and I occassionally do tech consulting and contract work.</p>
+						<p>I'm optimistic that my career path will allow me to use what I know to improve lives.</p>
 					</div>
 
 					<h3>Skills</h3>

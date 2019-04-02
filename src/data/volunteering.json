@@ -1,34 +1,34 @@
 [
 	{
-		"title": "Co-founder, board member, volunteer",
+		"title": "Co-founder, Board Member, Volunteer",
 		"orgName": "MakeICT",
 		"logo": "makeict-logo.svg",
-		"details": "<p><a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a> is a 501(c)3 educational non-profit founded in 2012. We operate community <a href=\"https://en.wikipedia.org/wiki/Hackerspace\" target=\"_blank\" rel=\"noopener noreferrer\">makerspace</a> in Wichita, Kansas, where members of the community can collaborate and share knowledge, ideas, tools, and equipment.</p><p>Our makerspace is an 8,700 sq ft facility which includes a woodshop, metalshop, ceramics studio, printmaking, electronics, 3d printing, laser cutting, jewelry making, and more. The classroom offers teaching space for an incredible variety of learning opportunities, and the gallery space is used to showcase works from community members.</p>",
+		"details": "<p><a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a> is a 501(c)3 educational nonprofit which operates a community <a href=\"https://en.wikipedia.org/wiki/Hackerspace\" target=\"_blank\" rel=\"noopener noreferrer\">makerspace</a> in Wichita, Kansas. Members of the community can collaborate and share knowledge, ideas, tools, and equipment.</p><p>Our makerspace is an 8,700 sq ft facility which includes a classroom, showroom, woodshop, metalshop, ceramics studio, printmaking, electronics, 3d printing, laser cutting, jewelry making, and more.</p>",
 		"duties": ["Co-Founder", "President", "Vice-president", "At-large board member", "Social media manager", "Outreach volunteer", "Event organizer", "Instructor", "Web developer", "System automation", "Volunteer recruiter"],
 		"start": "2012",
 		"url": "http://makeict.org/"
 	},{
-		"title": "Board member, volunteer",
+		"title": "Board Member, Volunteer",
 		"orgName": "Bike Walk Wichita",
 		"logo": "bww-logo.svg",
-		"details": "<p><a href=\"http://bikewalkwichita.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Bike Walk Wichita</a> is a 501(c)3 non-profit whose mission is to transform Wichita into a more livable, accessible, connected city by making biking and walking safe, equitable, and appealing. We achieve this through advocacy and civic engagement, education for cyclists, pedestrians, motorists, and collaboration with community partners.</p>",
+		"details": "<p><a href=\"http://bikewalkwichita.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Bike Walk Wichita</a> is a 501(c)3 nonprofit whose mission is to transform Wichita into a more livable, accessible, connected city by making biking and walking safe, equitable, and appealing. We achieve this through advocacy and civic engagement, education for cyclists, pedestrians, motorists, and collaboration with community partners.</p>",
 		"duties": ["At-large board member", "Communications Workgroup", "Outreach volunteer", "Web developer", "App developer"],
 		"start": "2015",
 		"url": "http://bikewalkwichita.org/"
 	},{
-		"title": "Board member, Workshop facilitator",
-		"orgName": "ThINK",
+		"title": "Board Member, Workshop Facilitator",
+		"orgName": "The Incubator for Nonprofits of Kansas",
 		"logo": "think-logo.svg",
-		"details": "<p><a href=\"https://theinkinc.org/\" target=\"_blank\" rel=\"noopener noreferrer\">The Incubator for Non-profits of Kansas</a> is a 501(c)3 non-profit which was created to help other non-profit initiatives start and grow their organizations. ThINK holds regular workshops which are open to the public.</p>",
-		"duties": ["At-large board member", "Workshop facilitator", "Non-profit consultant"],
+		"details": "<p><a href=\"https://theinkinc.org/\" target=\"_blank\" rel=\"noopener noreferrer\">The Incubator for Nonprofits of Kansas</a> (ThINK) is itself a 501(c)3 nonprofit which helps other nonprofit initiatives start and grow their organizations. ThINK holds regular workshops which are open to the public.</p>",
+		"duties": ["At-large board member", "Workshop facilitator", "Nonprofit consultant"],
 		"start": "2016",
 		"end": "2019",
 		"url": "https://theinkinc.org/"
 	},{
-		"title": "Maker Faire planning committee",
+		"title": "Planning Committee",
 		"orgName": "Wichita Mini Maker Faire",
 		"logo": "maker-faire-logo.svg",
-		"details": "<p><a href=\"https://wichita.makerfaire.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Maker Faire</a> is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. From engineers to artists to scientists to crafters, Maker Faire is a venue for these makers to show hobbies, experiments, projects. We call it the Greatest Show (&amp; Tell) on Earth - a family-friendly showcase of invention, creativity, and resourcefulness.</p>",
+		"details": "<p><a href=\"https://wichita.makerfaire.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Maker Faire</a> is a gathering of fascinating, curious people who enjoy learning and love sharing what they can do. From engineers to artists, scientists, crafters, and more, Maker Faire is a venue for these makers to share their projects. It's a family-friendly showcase of invention, creativity, and resourcefulness.</p>",
 		"duties": ["Planning committee", "Volunteer recruitment", "Exhibition curation"],
 		"start": "2016",
 		"end": "2017",
@@ -37,35 +37,35 @@
 		"title": "Treasurer",
 		"orgName": "Kansas Linux Fest",
 		"logo": "klf-logo.svg",
-		"details": "<p><a href=\"https://kansaslinuxfest.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Kansas Linux Fest</a> is an annual event to celebrate and promote Free and Open Source software, open knowledge, and education. The event consists of a topic-driven sessions lead by volunteer presenters. Topics cover a variety of subjects.</p>",
-		"duties": ["Event planning & organization", "Treasurer", "Social media manager"],
+		"details": "<p><a href=\"https://kansaslinuxfest.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Kansas Linux Fest</a> is an annual event to celebrate and promote Free and Open Source software, open knowledge, and education. The event consists of topic-driven sessions on a variety of subjects lead by industry leaders and volunteer presenters.</p>",
+		"duties": ["Event planning & organization", "Treasurer", "Social media manager", "Speaker"],
 		"start": "2016",
 		"end": "2019",
 		"url": "https://kansaslinuxfest.org/"
 	},{
-		"title": "App developer",
+		"title": "Technical Consultant and App Developer",
 		"orgName": "Horizontes",
 		"logo": "horizontes-logo.svg",
 		"details":
 			"<p><a href=\"http://www.horizontes-project.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Horizontes</a> is a community-engagement art project which aims to connect underrepresented areas in Wichita: the predominantly Latino North End and historically African American Northeast neighborhoods. The iniitative is driven by local artists and was a 2017 Knight Cities Challenge winner.</p>",
-		"duties": ["Survey app developer"],
+		"duties": ["Data collection consulting", "Survey app developer"],
 		"start": "2018",
 		"end": "2018",
 		"url": "http://www.horizontes-project.com/"
 	},{
-		"title": "Volunteer, activist",
+		"title": "Activist / Volunteer",
 		"orgName": "Wichita Animal Rights Group",
 		"logo": "wichita-animal-rights-group-logo.svg",
-		"details": "<p>The <a href=\"https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita Animal Rights group</a> is comprised of individuals who seek to reduce the suffering experienced by all creatures. Activities include discussion groups, film festivals, vegan pot-lucks, and advocacy (leafletting, lobbying, protesting, etc.).</p>",
-		"duties": ["Lobbying", "Event-planning", "Discussion group facilitator", "Protester"],
+		"details": "<p>The <a href=\"https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita Animal Rights group</a> seeks to reduce  suffering experienced by all creatures. Activities include advocacy, discussion groups, film festivals, book clubs, vegan pot-lucks, and others.</p>",
+		"duties": ["Lobbyist", "Event-planner", "Discussion group facilitator", "Protester", "Outreach"],
 		"start": "2015",
 		"url": "https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/"
 	},{
 		"title": "Volunteer",
 		"orgName": "HFES (WSU student chapter)",
 		"logo": "hfes-wsu-logo.svg",
-		"details": "<p>The <a href=\"https://www.facebook.com/WSUHFES/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita State University HFES Student Chapter</a> works to promote and advance the understanding of the human factors and ergonomics involved in the design, manufacture, and use of machines, systems, environments and devices of all kinds through the interchange of knowledge and methodology in the behavioral, biological, and physical sciences and in industrial, computer science and other relevant engineering disciplines.</p>",
-		"duties": ["Outreach"],
+		"details": "<p>The <a href=\"https://www.facebook.com/WSUHFES/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita State University Student Chapter of the Human Factors and Ergonomics Society</a> works to promote the field of human factors, and to create camaraderie and community between students, faculty, researchers, practitioners, and community members.</p>",
+		"duties": ["STEM outreach", "Public speaking"],
 		"start": "2013",
 		"url": "https://www.facebook.com/WSUHFES/"
 	},{
@@ -80,31 +80,31 @@
 		"title": "Student Organization Advisor",
 		"orgName": "Wichita State University",
 		"logo": "wsu-logo.svg",
-		"details": "<p>Student organizations provide an opportunity for students to develop personal connections with their peers, participate in activities with like-minded individuals, build cohort relationships which help improve academic outcomes. To be recognized by the university, student organizations must have a faculty advisor who helps provide advice, guidance, mentorship, and oversight to the organizations and their leaderships.</p>",
+		"details": "<p>Student organizations provide an opportunity for students to develop personal connections with their peers, participate in activities with like-minded individuals, and build cohort relationships which help improve academic outcomes. For official status, organizations must have a faculty advisor who provides advice, guidance, mentorship, and oversight to the organizations and their leaderships.</p>",
 		"duties": ["Nerd Union", "Association for Computing Machinery", "Robotics Implementation Group"],
 		"start": "2012",
 		"end": "2014",
 		"url": "https://wichita.edu/"
 	},{
-		"title": "Coach, volunteer, donor",
+		"title": "Coach, Volunteer, Donor",
 		"orgName": "Miracle League of Wichita and Sports 4 All Kids",
 		"logo": "miracle-league-logo.svg",
-		"details": "<p>The <a href=\"http://www.wichita.gov/ParkandRec/Youth/Pages/MiracleLeague.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Miracle League of Wichita</a> and Sports 4 All Kids provide children with special needs the opportunity to participate in team sports and other activities. Specially designed playing fields, rules, and teams help provide an inclusive, safe, and fun experience for all players.</p>",
+		"details": "<p>The <a href=\"http://www.wichita.gov/ParkandRec/Youth/Pages/MiracleLeague.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Miracle League of Wichita</a> and Sports 4 All Kids provide children with special needs the opportunity to participate in team sports and other activities. Specially designed playing fields, rules, and teams provide an inclusive, safe, and fun experience for all players.</p>",
 		"duties": ["Baseball coach", "Kickball coach", "Donor", "\"Angel\" volunteer"],
 		"start": "2010",
 		"end": "2015",
 		"url": "http://www.wichita.gov/ParkandRec/Youth/Pages/MiracleLeague.aspx"
 	},{
-		"title": "App developer",
+		"title": "App Developer",
 		"orgName": "CreativeRush",
 		"logo": "cr-logo.svg",
-		"details": "<p><a href=\"http://creativerush.org/\" target=\"_blank\" rel=\"noopener noreferrer\">CreativeRush</a> works to connect creatives with each other and the larger community. By bringing together a diverse group of people with different talents, interests, and ideas, CreativeRush helps us learn more and do better work.</p>",
+		"details": "<p><a href=\"http://creativerush.org/\" target=\"_blank\" rel=\"noopener noreferrer\">CreativeRush</a> connects creatives with each other and with the larger community. By bringing together a diverse group of people with different talents, interests, and ideas, CreativeRush helps us learn more and do better work.</p>",
 		"duties": ["Membership app developer"],
 		"start": "2013",
 		"end": "2013",
 		"url": "http://creativerush.org/"
 	},{
-		"title": "Individual partner classroom volunteer",
+		"title": "Individual Partner Classroom Volunteer",
 		"orgName": "Junior Achievement",
 		"logo": "ja-logo.svg",
 		"details": "<p><a href=\"https://www.juniorachievement.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Junior Achievement</a> volunteers share personal and professional experiences and skills with students to help them connect what they learn in school to what they will need to succeed in work and life.</p>",

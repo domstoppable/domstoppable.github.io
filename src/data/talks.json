@@ -2,13 +2,13 @@
 	"categories": [
 		"Human-computer Interaction",
 		"Maker Culture",
-		"Technical talk or instruction",
+		"Technical Talk / Workshop",
 		"Career",
 		"Other"
 	],
 	"talks": [
 		{
-			"category": "Technical talk or instruction",
+			"category": "Technical Talk / Workshop",
 			"title": "Intelligent GUI Automation with Sikuli",
 			"description": "By combining computer vision (OpenCV) and coding (Python+Java), Sikuli can be used to automate any graphical user interface with programmable intelligence. The vision module allows users programmatically identify visual elements, query the screen, and perform logical operations based on the results. This can be a powerful tool for GUI testing or automating UIs when an API is not available.",
 			"date": "2015-01-29",
@@ -18,7 +18,7 @@
 			"embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WGEX0dz_f_w\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
 			"url": "https://www.youtube.com/watch?v=WGEX0dz_f_w"
 		},{
-			"category": "Technical talk or instruction",
+			"category": "Technical Talk / Workshop",
 			"title": "Python Bootcamp",
 			"audience": "Wichita State",
 			"description": "In this recorded, live 3-day workshop, we install tools for Python development, learn fundamental programming constructs, and use Qt via PySide to create interactive GUI applications.",
@@ -46,7 +46,7 @@
 			"url": "http://www.greenlightgo.org/education/humans-only/"
 		},{
 			"category": "Human-computer Interaction",
-			"title": "Using gesture, gaze, and combination input schemes as alternatives to the computer mouse",
+			"title": "Using Gesture, Gaze, and Combination Input Schemes as Alternatives to the Computer Mouse",
 			"date": "2018-10-03",
 			"audience": "HFES Annual Meeting",
 			"description": "Novel input devices can increase the bandwidth between users and their devices. Traditional desktop computing uses windows, icons, menus, and pointers – an interface built for the computer mouse and very effective for pointing-and-clicking. Alternative devices provide a variety of interactions including touch-free, gesture-based input and gaze-tracking to determine the user’s on-screen gaze location, but these input channels are not well-suited to a point-and-click interface. This study evaluates five new schemes, some multi-modal. These experimental schemes perform worse than mouse-based input for a picture sorting task, and motion-based gesture control creates more errors. Some gaze-based input has similar performance to the mouse while not creating additional workload.",
@@ -57,7 +57,7 @@
 			"icon": "powerpoint-icon.svg"
 		},{
 			"category": "Human-computer Interaction",
-			"title": "Using gesture, gaze, and combined input schemes for new interfaces",
+			"title": "Using Gesture, Gaze, and Combined Input Schemes for New Interfaces",
 			"date": "2017-12-01",
 			"audience": "Randall Chambers Competition",
 			"description": "Dr. Randall Chambers was a distinguished professor at WSU and Chief Life Scientist for NASA. He made a number of significant contributions to the field, and this award was created in his honor. Finalists present data and findings from recently completed research to an audience and a panel of judges who select one winner. My presentation featured work from my masters thesis in Human Factors and was the winning presentation in 2017.",
@@ -65,7 +65,7 @@
 			"location": "Wichita, KS"
 		},{
 			"category": "Human-computer Interaction",
-			"title": "How can we improve human-computer interaction?",
+			"title": "How Can We Improve Human-computer Interaction?",
 			"date": "2015-10-25",
 			"audience": "Senior Wednesday",
 			"description": "This HFES student-chapter outreach event gave us an opportunity to share our research interests with active seniors of Wichita.",
@@ -73,7 +73,7 @@
 			"location": "Wichita, KS"
 		},{
 			"category": "Maker Culture",
-			"title": "Making a makerspace",
+			"title": "Making a Makerspace",
 			"date": "2016-03-14",
 			"audience": "Science Cafe",
 			"description": "This talk gave listeners an introduction to maker culture and the global maker movement. The movement has been realized in Wichita through MakeICT — a nonprofit which operates a local community makerspace.",
@@ -130,7 +130,7 @@
 			"location": "Wichita, KS"
 		},{
 			"category": "Other",
-			"title": "Altruism: a scientific perspective",
+			"title": "Altruism: a Scientific Perspective",
 			"date": "2017-01-29",
 			"audience": "Oasis Wichita",
 			"audienceURL": "https://wichitaoasis.org/",
@@ -139,7 +139,7 @@
 			"url": "https://drive.google.com/open?id=1BvCkrnqsV9F5shcVHklx7sSwnIfOTIFnbocnKtKbT4o"
 		},{
 			"category": "Other",
-			"title": "You suck at thinking - A talk on Cognitive Biases",
+			"title": "You Suck at Thinking - A Talk on Cognitive Biases",
 			"date": "2017-03-26",
 			"audience": "Oasis Wichita",
 			"audienceURL": "https://wichitaoasis.org/",
@@ -148,7 +148,7 @@
 			"url": "https://drive.google.com/open?id=1Ml39NADB32_gvPxd9SwHuvIXyuaDyWyjslG_TBkM0_M"
 		},{
 			"category": "Other",
-			"title": "An introduction to (in)effective arguing",
+			"title": "An Introduction to (In)effective Arguing",
 			"date": "2016-11-27",
 			"audience": "Wichita Animal Rights Group",
 			"description": "We review some of the most common logical fallacies that are presented as arguments against animal welfare activism, how to identify them, how to defeat them, and how to avoid using them ourselves.",
@@ -172,7 +172,7 @@
 			"location": "Wichita, KS"
 		},{
 			"category": "Other",
-			"title": "How to pitch your idea",
+			"title": "How to Pitch Your Idea",
 			"date": "2016-03-01",
 			"audience": "Shocker Startup",
 			"description": "This short presentation gave pointers, tips, and advice to creating successful pitches.",
@@ -183,19 +183,19 @@
 			"date": "2013-03-28",
 			"audience": "Upward Bound Wichita Prep",
 			"audienceURL": "https://www.wichita.edu/services/diversity/trio/upward_bound_wichita_prep/",
-			"description": "",
+			"description": "In this speech, I told the story of my journey to seeking success with the students of Upward Bound Wichita Prep. I told students what success meant to me, and how it has evolved significantly in my adult life. I shared challenges, triumphs, successes, and failures to contextualize advice learned from my own experiences.",
 			"location": "Wichita, KS"
 		},{
-			"category": "Technical talk or instruction",
+			"category": "Technical Talk / Workshop",
 			"title": "LAMP Stack Intro",
 			"date": "2014-01-15",
 			"audience": "Wichita State Linux User's Group",
 			"audienceURL": "http://wulug.cs.wichita.edu/",
-			"description": "",
+			"description": "The LAMP (Linux+Apache+MySQL+PHP) stack has been a staple of web-based solutions for years. In this talk, I provided an introduction to the different components of the stack.",
 			"location": "Wichita, KS",
 			"url": "https://docs.google.com/presentation/d/1XItMYBwapmxS_pEd14TpumAFLADNf2niO5y1OzWZkCs/"
 		},{
-			"category": "Technical talk or instruction",
+			"category": "Technical Talk / Workshop",
 			"title": "Intro to the GNU Image Manipulation Program (GIMP)",
 			"date": "2011-04-21",
 			"audience": "Wichita community",
@@ -203,11 +203,11 @@
 			"location": "Wichita, KS",
 			"url": "https://www.youtube.com/watch?v=IGJhKQlxtHg&list=PL61021ED14B05C02B"
 		},{
-			"category": "Technical talk or instruction",
-			"title": "Intro to real computing for humans",
+			"category": "Technical Talk / Workshop",
+			"title": "Intro to Real Computing for Humans",
 			"date": "2014-03-05",
 			"audience": "Robotics Implmentation Group",
-			"description": "",
+			"description": "This workshop was designed for a group of engineering students who wanted to begin learning the fundamentals of computer programming, but haven't had the chance to take a dedicated course.",
 			"location": "Wichita, KS",
 			"url": "https://docs.google.com/presentation/d/1YScEhlZDE0O8GCpWCSs_wfnC52qDZv_cqNv8yRr1BUY/"
 		},{
@@ -221,7 +221,7 @@
 			"url": "http://sedgwick.granicus.com/player/clip/3063?view_id=24&entrytime=2904&stoptime=5570&autostart=0&embed=1"
 		},{
 			"category": "Human-computer Interaction",
-			"title": "A comparison of gaze-based and gesture-based input for a point-and-click task",
+			"title": "A Comparison of Gaze-based and Gesture-based Input for a Point-and-click Task",
 			"date": "2015-04-24",
 			"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
 			"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
@@ -230,7 +230,7 @@
 			"url": "https://soar.wichita.edu/handle/10057/11405"
 		},{
 			"category": "Human-computer Interaction",
-			"title": "New input schemes for new devices",
+			"title": "New Input Schemes for New Devices",
 			"date": "2017-04-28",
 			"audience": "Graduate Research and Scholarly Projects (GRASP) Symposium",
 			"audienceURL": "https://www.wichita.edu/academics/gradschool/grasp/index.php",
