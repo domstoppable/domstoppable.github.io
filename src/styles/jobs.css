@@ -61,3 +61,8 @@
 	width: 100%;
 	height: 100%;
 }
+
+.skill-alt-view .skill-rating{
+	font-size: 80%;
+	font-style: italic;
+}

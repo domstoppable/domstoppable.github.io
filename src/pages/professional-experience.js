@@ -10,6 +10,17 @@ import jobInfo from '../data/jobs.json';
 import skills from '../data/skills.json';
 
 import { sortByFields } from '../utils.js';
+
+let SKILL_RATINGS = [
+	{min:95, label:'Expert'},
+	{min:90, label:'Savvy'},
+	{min:80, label:'Proficient'},
+	{min:45, label:'Knowledgeable'},
+	{min:25, label:'Comfortable'},
+	{min:15, label:'Familiar'},
+	{min:0, label:'Lots to learn!'},
+];
+
 export default class Page extends Component {
 	constructor(){
 		super();
@@ -77,7 +88,13 @@ class SkillBlock extends Component {
 			imageFile = this.props.name.toLowerCase().replace(/ /g, '-') + '-icon.svg';
 		}
 
-		let stars = (this.props.level / 20).toFixed(1);
+		let skillRatingLabel = '';
+		for(let ratingText of SKILL_RATINGS){
+			if(this.props.level > ratingText.min){
+				skillRatingLabel = ratingText.label;
+				break;
+			}
+		}
 
 		return <FlipCard
 			className="skill"
@@ -90,7 +107,9 @@ class SkillBlock extends Component {
 			back={
 				<div className="skill-alt-view">
 					<div>{this.props.name}</div>
-					<div>★ {stars}</div>
+					<div className="skill-rating">
+						{skillRatingLabel}
+					</div>
 				</div>
 			} />
 
