@@ -2,11 +2,11 @@
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
+	padding: 0 1em;
 }
 
 .contact-block {
-	margin: 0.25em;
-	margin-bottom: 1em;
+	margin: 1.25em 2em 0 2em;
 
 	text-align: center;
 	background: var(--theme-7);
@@ -19,9 +19,9 @@
 
 .contact-block:first-child,
 .contact-block:nth-child(2) {
-	width: 200px;
-	margin-left: 2.5em;
-	margin-right: 2.5em;
+	width: 135px;
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 .contact-block:nth-child(2) {

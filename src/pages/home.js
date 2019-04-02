@@ -10,7 +10,7 @@ export default class Page extends Component {
 			{
 				name: 'email',
 				uri: 'mailto:dom@dominiccanare.com',
-				text: 'dom@dominiccanare.com',
+				text: 'dom@​dominiccanare.com',
 				icon: 'email-icon.svg'
 			},{
 				name: 'phone',
