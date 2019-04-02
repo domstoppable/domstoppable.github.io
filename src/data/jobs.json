@@ -140,9 +140,9 @@
 			"description": "At TimeIPS, I developed and maintained our primary product: a network appliance digital time and attendance system. Our small development team worked directly with company leadership to decide, make, and implement product and technical decisions.",
 			"duties": [
 				"Full-stack web development",
-				"PHP",
-				"SQL",
-				"Python"
+				"PHP, SQL, Python, HTML, JS, CSS",
+				"Feature development",
+				"Software maintenance"
 			],
 			"url": "http://timeips.com"
 		}
