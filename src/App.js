@@ -97,6 +97,9 @@ class App extends Component {
 										);
 									})
 								}
+								<div className="download-link">
+									<a href="/Dominic%20Canare%20-%20Resume.pdf" download>🖺 PDF Download</a>
+								</div>
 							</nav>
 						</div>
 						<div className="footer">

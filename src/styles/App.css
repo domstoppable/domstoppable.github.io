@@ -160,6 +160,10 @@ nav>.selected a{
 	flex-grow: 1;
 }
 
+.sidebarMain .download-link {
+	margin-top: 3em;
+}
+
 .footer {
 	margin: 4em auto 2.5em auto;
 	flex-grow: 0;
