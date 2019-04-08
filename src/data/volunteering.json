@@ -56,7 +56,7 @@
 		"title": "Activist / Volunteer",
 		"orgName": "Wichita Animal Rights Group",
 		"logo": "wichita-animal-rights-group-logo.svg",
-		"details": "<p>The <a href=\"https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita Animal Rights group</a> seeks to reduce  suffering experienced by all creatures. Activities include advocacy, discussion groups, film festivals, book clubs, vegan pot-lucks, and others.</p>",
+		"details": "<p>The <a href=\"https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita Animal Rights group</a> seeks to reduce  suffering experienced by all creatures. Activities include discussion groups, film festivals, vegan pot-lucks, and advocacy (leafleting, lobbying, protesting, etc.).</p>",
 		"duties": ["Lobbyist", "Event-planner", "Discussion group facilitator", "Protester", "Outreach"],
 		"start": "2015",
 		"url": "https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/"
@@ -72,8 +72,8 @@
 		"title": "Donor",
 		"orgName": "Wichita State University",
 		"logo": "wsu-logo.svg",
-		"details": "<p>In 2011, I started a scholarship at <a href=\"https://wichita.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita State University</a> to help support the advancement of higher education for local studnts. Additionally, I created an award for freshmen engineering students who showed significant potential to make the world a better place. The award came with a stipulation-free cash prize.</p>",
-		"duties": ["Member: Society of 1895", "Founder: \"The Dominic Canare Take a little, leave a lot\" scholarship", "Founder: \"The Commision to Create a Favorable Future\" Award"],
+		"details": "<p>In 2011, I started a scholarship at <a href=\"https://wichita.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita State University</a> to help support the advancement of higher education for local students. Additionally, I created an award for freshmen engineering students who showed significant potential to make the world a better place. The award came with a stipulation-free cash prize.</p>",
+		"duties": ["Member: Society of 1895", "Founder: \"The Dominic Canare Take a little, leave a lot\" scholarship", "Founder: \"The Commission to Create a Favorable Future\" Award"],
 		"start": "2011",
 		"url": "https://wichita.edu/"
 	},{
