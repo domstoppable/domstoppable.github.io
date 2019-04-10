@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/awards-icon.6a24b816.svg"
   },
   {
-    "revision": "ef077652cfc5f8d11172",
+    "revision": "ee8ed404a13b0e202526",
     "url": "/static/css/main.00267faa.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/wave-icon.7c215e82.svg"
   },
   {
-    "revision": "ef077652cfc5f8d11172",
-    "url": "/static/js/main.5a62d160.chunk.js"
+    "revision": "ee8ed404a13b0e202526",
+    "url": "/static/js/main.cc1dee5a.chunk.js"
   },
   {
     "revision": "83e5fcc3f7879a34e77a5e27cae690ed",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/progress-mask.a315b824.svg"
   },
   {
-    "revision": "cd9489957a03a47ad842d689493dccbe",
+    "revision": "1f84f0703dbcee4a7d6b961ea3e84fb1",
     "url": "/index.html"
   }
 ];
