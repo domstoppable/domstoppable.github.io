@@ -98,7 +98,7 @@ class App extends Component {
 									})
 								}
 								<div className="download-link">
-									<a href="/Dominic%20Canare%20-%20Resume.pdf" download>🖺 PDF Download</a>
+									<a href="/Dominic%20Canare%20-%20Resume.pdf" download>🖺 Download Resume</a>
 								</div>
 							</nav>
 						</div>

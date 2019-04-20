@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Charles G. Halcomb Award",
+		"date": "2019-04-17",
+		"org": "Wichita State University",
+		"type": "academic",
+		"details": "The Charles G. Halcomb Award is named for Dr. Halcomb, Professor Emeritus at Wichita State University who established the Human Factors program there. This award is given annually to one student for \"Outstanding Research in Human Factors Psychology\". I won this award in 2019 for my work on <a href=\"https://osf.io/mf2bt/\" target=\"_blank\" rel=\"noopener noreferrer\">QuickCSF</a>, an open-source implementation of the qCSF algorithm. It's a fast, adaptive approach to estimating an observer's complete contrast sensitivity function. The source code is publicly available for researchers, clinicians, and anyone else to download, use, improve upon, and share further.",
+		"url": "https://www.wichita.edu/academics/fairmount_college_of_liberal_arts_and_sciences/psychology/",
+		"logo": "wsu-logo.svg"
+	},{
 		"name": "NewsMaker of the Year",
 		"date": "2015-02-03",
 		"org": "Wichita Business Journal",
@@ -8,7 +16,7 @@
 		"url": "https://www.bizjournals.com/wichita/special/2014/newsmakers",
 		"logo": "wbj-logo.svg"
 	},{
-		"name": "Randall Chambers Award Winner",
+		"name": "Randall Chambers Award",
 		"org": "Wichita State University Dept. of Psychology",
 		"date": "2017-12-01",
 		"type": "academic",
