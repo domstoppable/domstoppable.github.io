@@ -1,5 +1,21 @@
 [
 	{
+		"name": "Epic MegaGrant",
+		"date": "2019-10-21",
+		"org": "Epic Games",
+		"type": "",
+		"details": "Epic Games established MegaGrants to support people and organizations creating with their products and/or enhancing open-source capabilities for the 3D graphics community. This grant provides seed funding (capital and operational costs) for the development of the <a href=\"https://psydekick.org/\" target=\"_blank\" rel=\"noopener noreferrer\">PsydeKick Science Kit</a>, an open-source framework to help scientists and researchers build rich, interactive experiments that work across multiple platforms and without requiring them to be software developers.",
+		"url": "https://www.unrealengine.com/en-US/megagrants",
+		"logo": "epic-games-logo.svg"
+	},{
+		"name": "Jayne and Glenn Milburn Fellowship",
+		"date": "2019-04-29",
+		"org": "Wichita State University",
+		"type": "academic",
+		"details": "Jayne and Glenn Milburn were longtime supporters of the university, with gifts dating back to the 1950's, and their namesake fellowship was established after Mrs. Milburn's passing at the age of 101. I was selected to receive the fellowship in its inaugural year as recognition for being an outstanding graduate student, and for contributions and support of the graduate school and the university.",
+		"url": "https://www.wichita.edu/academics/fairmount_college_of_liberal_arts_and_sciences/psychology/",
+		"logo": "wsu-logo.svg"
+	},{
 		"name": "Charles G. Halcomb Award",
 		"date": "2019-04-17",
 		"org": "Wichita State University",

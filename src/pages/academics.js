@@ -62,6 +62,7 @@ export default class AcademicsPage extends Component {
 
 					<Card heading="Honors and Organizations">
 						<ul className="split">
+							<li>2019 Jayne and Glenn Milburn Fellowship</li>
 							<li>2017 Randall Chambers Award Winner</li>
 							<li>2017 WSU GRASP Honorable Mention</li>
 							<li>2015 WSU Ventures Bright Future Award Winner</li>
@@ -104,6 +105,6 @@ class DegreeBlock extends Component {
 				</div>
 			}
 		/>
-		
+
 	}
 }
