@@ -13,6 +13,7 @@
 			"employer": "Wichita State University",
 			"department": "Visual Perception & Cognition Lab",
 			"start": "2016",
+			"end": "2019",
 			"description": "We perform a variety of scientific experiments across the spectrum of basic and applied research. Some of our research projects focus on visual perception (depth perception, stereopsis, contrast sensitivity, etc.), perceptual learning, age-related deficits in perception and cognitive functions, activities in virtual reality, and driving+automation performance studies. I participate in all aspects of our research from conception to conclusion.",
 			"duties": [
 				"Experiment and methodology design",
@@ -22,6 +23,24 @@
 				"Automation"
 			],
 			"url": "http://www.vpclab.com/"
+		},{
+			"category": "Research",
+			"title": "Developer Experience Research Intern",
+			"logo": "intel-logo.svg",
+			"employer": "Intel Corporation",
+			"department": "Visual Computing Solutions",
+			"start": "2019",
+			"end": "2019",
+			"description": "Our Developer Experience team performed usability and user-experience research on products that targeted software developers. During my six-month contract with Intel, I contributed to several products as part of the <a href=\"https://software.intel.com/en-us/oneapi\" target=\"_blank\" rel=\"noopener noreferrer\">oneAPI</a> initiative and Intel's beta launch of the reference implementation. I worked closely with engineers, technical writers, web-professionals, and other researchers to improve the products and associated materials.",
+			"duties": [
+				"Expert review of software documentation, guides, development tools, installers, code samples, etc.",
+				"Drafted technical documentation",
+				"Experiment designs & test plans",
+				"Procured and configured hardware",
+				"Executed and supervised test sessions",
+				"Presented findings to various groups"
+			],
+			"url": "https://www.intel.com/"
 		},{
 			"category": "Software Development",
 			"title": "Technology Consultant",
