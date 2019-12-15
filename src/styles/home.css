@@ -1,41 +1,33 @@
 .contact-blocks {
 	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	padding: 0 1em;
+	flex-direction: column;
+
+	margin-top: 1em;
+	list-style: none;
+	font-size: 125%;
 }
 
 .contact-block {
-	margin: 1.25em 2em 0 2em;
-
-	text-align: center;
-	background: var(--theme-7);
-	border-radius: 0.25em;
-	font-size: 12pt;
-
-	padding: 0.25em 0.75em;
-	box-shadow: .125em .125em .125em #444;
+	margin-bottom: .25em;
 }
 
-.contact-block:first-child,
-.contact-block:nth-child(2) {
-	width: 135px;
-	margin-left: 1em;
-	margin-right: 1em;
-}
-
-.contact-block:nth-child(2) {
-	break-after: always;
-}
-
-.contact-block,
 .contact-block a {
-	color: var(--theme-1);
-	text-decoration: none;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
 }
 
 .contact-block img {
-	width: 100px;
-	height: 100px;
-	display: inline-block;
+	margin-right: 1em;
+
+	background: var(--theme-7);
+
+	padding: 0.5em;
+	box-shadow: .125em .125em .125em #444;
+	border-radius: 0.3em;
+}
+
+.contact-block a {
+	color: var(--theme-1);
+	text-decoration: none;
 }
