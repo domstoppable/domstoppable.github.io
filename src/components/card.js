@@ -18,7 +18,7 @@ export class InfoCard extends Component {
 		if(this.props.iconNode){
 			icon = this.props.iconNode;
 		}else if(this.props.iconImageURL){
-			icon = <img src={'../images/' + this.props.iconImageURL} alt='Link icon' width="96" height="96"/>
+			icon = <img src={'../images/' + this.props.iconImageURL} alt={this.props.iconAlt ? this.props.iconAlt : "Link icon"} width="96" height="96"/>
 		}
 
 		if(icon){
@@ -61,7 +61,7 @@ export function twirlCards(interCardDelay=85, duration=1000, identifierClass='fl
 	let flipCards = document.getElementsByClassName(identifierClass);
 	for(let i=0; i<flipCards.length; i++){
 		let card = flipCards[i];
-		
+
 		window.setTimeout(()=>card.classList.add(flipClass), i*interCardDelay);
 		window.setTimeout(()=>card.classList.remove(flipClass), i*interCardDelay + duration);
 	}
