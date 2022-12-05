@@ -13,8 +13,8 @@ export default class AcademicsPage extends Component {
 				type: 'PhD',
 				field: 'Human Factors Psychology',
 				institution: 'Wichita State University',
-				year: 2020,
-				finished: false,
+				year: 2022,
+				finished: true,
 			},{
 				type: 'MA',
 				field: 'Psychology',
@@ -62,6 +62,8 @@ export default class AcademicsPage extends Component {
 
 					<Card heading="Honors and Organizations">
 						<ul className="split">
+							<li>2022 Michael P. Tilford Graduate Fellowship</li>
+							<li>2021 Human Factors Graduate Student of the Year</li>
 							<li>2019 Jayne and Glenn Milburn Fellowship</li>
 							<li>2017 Randall Chambers Award Winner</li>
 							<li>2017 WSU GRASP Honorable Mention</li>
