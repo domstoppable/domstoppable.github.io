@@ -237,6 +237,7 @@ nav>.selected a{
 	background-color: var(--theme-5);
 	text-align: center;
 	padding: 0.25em;
+	text-shadow: 1px 1px 4px #000000;
 }
 
 .info-card>.contents{
