@@ -78,9 +78,9 @@ export default class AcademicsPage extends Component {
 
 					<Card heading="Theses">
 						<ul>
-							<li>2020 Dissertation: A tactile-phonemic sensory substitution device for universal speech perception</li>
-							<li>2017 Thesis: Using gesture, gaze, and combination input schemes as an alternative to the computer mouse for new interfaces</li>
-							<li>2008 Thesis: Fit4Work - an employee mental health evaluation system</li>
+							<li>2022 PhD Dissertation: Tactile-speech Perception with Gamified Training on the Vibey Transcribey</li>
+							<li>2017 MA Thesis: Using gesture, gaze, and combination input schemes as an alternative to the computer mouse for new interfaces</li>
+							<li>2008 MS Thesis: Fit4Work - an employee mental health evaluation system</li>
 						</ul>
 					</Card>
 				</div>
