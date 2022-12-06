@@ -12,7 +12,7 @@ export default class Page extends Component {
 	constructor(){
 		super();
 
-		this.orgs = volunteering.sort(sortByFields(['end', 'start']));
+		this.orgs = volunteering.sort(sortByFields(['end', '-start']));
 	}
 
 	render() {

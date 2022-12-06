@@ -12,21 +12,27 @@ export function parseDate(dateString) {
 }
 
 export function sortByFields(fields){
+	if(!Array.isArray(fields)){
+		fields = [fields];
+	}
+
 	return (a, b) => {
-		if(!Array.isArray(fields)){
-			fields = [fields];
-		}
 		for(let field of fields){
+			let order = 1;
+			if(field[0] === '-'){
+				field = field.substring(1);
+				order = -1;
+			}
 			if(a.hasOwnProperty(field) && b.hasOwnProperty(field)){
 				if(a[field] < b[field]){
-					return 1;
+					return 1 * order;
 				}else if(a[field] > b[field]){
-					return -1;
+					return -1 * order;
 				}
 			}else if(a.hasOwnProperty(field)){
-				return 1;
+				return 1 * order;
 			}else if(b.hasOwnProperty(field)){
-				return -1;
+				return -1 * order;
 			}
 		}
 

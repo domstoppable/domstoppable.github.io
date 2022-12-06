@@ -1,11 +1,12 @@
 [
 	{
-		"title": "Co-founder, Board Member, Volunteer",
+		"title": "Founding Member, Board Member",
 		"orgName": "MakeICT",
 		"logo": "makeict-logo.svg",
 		"details": "<p><a href=\"http://makeict.org/\" target=\"_blank\" rel=\"noopener noreferrer\">MakeICT</a> is a 501(c)3 educational nonprofit which operates a community <a href=\"https://en.wikipedia.org/wiki/Hackerspace\" target=\"_blank\" rel=\"noopener noreferrer\">makerspace</a> in Wichita, Kansas. Members of the community can collaborate and share knowledge, ideas, tools, and equipment.</p><p>Our makerspace is an 8,700 sq ft facility which includes a classroom, showroom, woodshop, metalshop, ceramics studio, printmaking, electronics, 3d printing, laser cutting, jewelry making, and more.</p>",
-		"duties": ["Co-Founder", "President", "Vice-president", "At-large board member", "Social media manager", "Outreach volunteer", "Event organizer", "Instructor", "Web developer", "System automation", "Volunteer recruiter"],
+		"duties": ["Founding Member", "President", "Vice-president", "At-large board member", "Social media manager", "Outreach volunteer", "Event organizer", "Instructor", "Web developer", "System automation", "Volunteer recruiter"],
 		"start": "2012",
+		"end": "2017",
 		"url": "http://makeict.org/"
 	},{
 		"title": "Board Member, Volunteer",
@@ -14,6 +15,7 @@
 		"details": "<p><a href=\"http://bikewalkwichita.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Bike Walk Wichita</a> is a 501(c)3 nonprofit whose mission is to transform Wichita into a more livable, accessible, connected city by making biking and walking safe, equitable, and appealing. We achieve this through advocacy and civic engagement, education for cyclists, pedestrians, motorists, and collaboration with community partners.</p>",
 		"duties": ["At-large board member", "Communications Workgroup", "Outreach volunteer", "Web developer", "App developer"],
 		"start": "2015",
+		"end": "2017",
 		"url": "http://bikewalkwichita.org/"
 	},{
 		"title": "Board Member, Workshop Facilitator",
@@ -59,6 +61,7 @@
 		"details": "<p>The <a href=\"https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita Animal Rights group</a> seeks to reduce  suffering experienced by all creatures. Activities include discussion groups, film festivals, vegan pot-lucks, and advocacy (leafleting, lobbying, protesting, etc.).</p>",
 		"duties": ["Lobbyist", "Event-planner", "Discussion group facilitator", "Protester", "Outreach"],
 		"start": "2015",
+		"end": "2018",
 		"url": "https://www.meetup.com/Wichita-Animal-Rights-Meetup-Group/"
 	},{
 		"title": "Volunteer",
@@ -67,6 +70,7 @@
 		"details": "<p>The <a href=\"https://www.facebook.com/WSUHFES/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita State University Student Chapter of the Human Factors and Ergonomics Society</a> works to promote the field of human factors, and to create camaraderie and community between students, faculty, researchers, practitioners, and community members.</p>",
 		"duties": ["STEM outreach", "Public speaking"],
 		"start": "2013",
+		"end": "2022",
 		"url": "https://www.facebook.com/WSUHFES/"
 	},{
 		"title": "Donor",
@@ -75,6 +79,7 @@
 		"details": "<p>In 2011, I started a scholarship at <a href=\"https://wichita.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Wichita State University</a> to help support the advancement of higher education for local students. Additionally, I created an award for freshmen engineering students who showed significant potential to make the world a better place. The award came with a stipulation-free cash prize.</p>",
 		"duties": ["Member: Society of 1895", "Founder: \"The Dominic Canare Take a little, leave a lot\" scholarship", "Founder: \"The Commission to Create a Favorable Future\" Award"],
 		"start": "2011",
+		"end": "2016",
 		"url": "https://wichita.edu/"
 	},{
 		"title": "Student Organization Advisor",
